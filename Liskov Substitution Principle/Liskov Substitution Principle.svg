@@ -363,7 +363,7 @@
 		<g id="shape71-206" v:mID="71" v:groupContext="shape" transform="translate(386.935,-225.455)">
 			<title>Sheet.71</title>
 			<rect v:rectContext="foreign" x="0" y="777.745" width="194.167" height="95.3256" class="st12"/>
-			<image x="0" y="777.745" width="194.167" height="95.3256" preserveAspectRatio="none" xlink:href="data:image/png;base64,
+			<image img-src='none' x="0" y="777.745" width="194.167" height="95.3256" preserveAspectRatio="none" xlink:href="data:image/png;base64,
 						iVBORw0KGgoAAAANSUhEUgAAAfEAAAD0CAYAAACLiB96AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0
 						Ad5mH3gAACw6SURBVHhe7Z17zCbVfZhjJXHaymkurlqltjFgey/ftwsGw+JrIL4AWlKuSyCUoharRTRetoW6gLCTLibbzdJE1IthVUUp
 						3TbaiNWq0G2Lo1JZLFFZo4KS0m29oCZBWPyxAiFZK/MP0umcOefMnMvvzJx5d97ve+f7nj8erb6Z37nMuzPnOb8z8877E1svuVIBAADA
