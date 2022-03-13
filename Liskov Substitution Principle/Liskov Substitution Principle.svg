@@ -1036,7 +1036,7 @@
 		<g id="shape79-235" v:mID="79" v:groupContext="shape" transform="translate(915.004,-161.283)">
 			<title>Sheet.79</title>
 			<rect v:rectContext="foreign" x="0" y="781.779" width="182.82" height="147.985" class="st11"/>
-			<image alt="invariants" x="0" y="781.779" width="182.82" height="147.985" preserveAspectRatio="none" href="https://raw.githubusercontent.com/NiekBeijloos/SOLID/master/Liskov%20Substitution%20Principle/Examples/Invariants.svg"/>
+			<image x="0" y="781.779" width="182.82" height="147.985" preserveAspectRatio="none" href="https://raw.githubusercontent.com/NiekBeijloos/SOLID/master/Liskov%20Substitution%20Principle/Examples/Invariants.svg"/>
 			<rect v:rectContext="foreign" x="0" y="781.779" width="182.82" height="147.985" class="st11"/>
 		</g>
 		<g id="shape80-239" v:mID="80" v:groupContext="shape" transform="translate(1117.63,-161.283)">
