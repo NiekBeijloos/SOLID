@@ -25,20 +25,20 @@
 		.st10 {fill:#3c63ac;font-family:Calibri;font-size:0.666664em}
 		.st11 {fill:none;stroke:none;stroke-width:0.25}
 		.st12 {fill:#ffffff;stroke:none;stroke-linecap:butt}
-		.st13 {fill:url(#grad0-252);stroke:#3c63ac;stroke-width:0.75}
+		.st13 {fill:url(#grad0-254);stroke:#3c63ac;stroke-width:0.75}
 		.st14 {fill:#3c63ac;font-family:Calibri;font-size:0.833336em}
-		.st15 {fill:url(#grad0-262);stroke:#3c63ac;stroke-width:0.75}
+		.st15 {fill:url(#grad0-264);stroke:#3c63ac;stroke-width:0.75}
 		.st16 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
 	<defs id="Patterns_And_Gradients">
-		<linearGradient id="grad0-252" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-254" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#e8ebf4" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#f4f5f9" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#feffff" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-262" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-264" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#c5cae4" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#cfd3e9" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#3359a2" stop-opacity="1"/>
@@ -128,11 +128,15 @@
 			<title>Dynamic connector.19</title>
 			<path d="M0 936.85 L63.83 936.85" class="st1"/>
 		</g>
-		<g id="shape20-43" v:mID="20" v:groupContext="shape" v:layerMember="0" transform="translate(1261.42,-596.693)">
+		<g id="shape20-43" v:mID="20" v:groupContext="shape" v:layerMember="0" transform="translate(1261.42,-589.606)">
 			<title>Dynamic connector.20</title>
-			<path d="M0 929.76 L12.67 929.76 L12.67 851.81 L35.48 851.81" class="st1"/>
-		</g>
-		<g id="shape21-48" v:mID="21" v:groupContext="shape" transform="translate(1459.84,-646.299)">
+			<desc>E.g.</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.9348" cy="922.677" width="40" height="17.6036"/>
+			<path d="M0 922.68 L38.83 922.68" class="st1"/>
+			<rect v:rectContext="textBkgnd" x="17.0794" y="917.877" width="11.7109" height="9.59985" class="st9"/>
+			<text x="17.08" y="925.08" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>E.g.</text>		</g>
+		<g id="shape21-50" v:mID="21" v:groupContext="shape" transform="translate(1459.84,-646.299)">
 			<title>Rectangle.21</title>
 			<desc>Less complexity</desc>
 			<v:userDefs>
@@ -142,11 +146,11 @@
 			<v:textRect cx="56.6929" cy="901.417" width="113.39" height="56.6929"/>
 			<rect x="0" y="873.071" width="113.386" height="56.6929" class="st3"/>
 			<text x="24.8" y="904.42" class="st7" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Less complexity</text>		</g>
-		<g id="shape22-51" v:mID="22" v:groupContext="shape" v:layerMember="0" transform="translate(1417.32,-667.559)">
+		<g id="shape22-53" v:mID="22" v:groupContext="shape" v:layerMember="0" transform="translate(1417.32,-667.559)">
 			<title>Dynamic connector.22</title>
 			<path d="M0 922.68 L35.48 922.68" class="st1"/>
 		</g>
-		<g id="shape25-56" v:mID="25" v:groupContext="shape" transform="translate(620.437,-439.411)">
+		<g id="shape25-58" v:mID="25" v:groupContext="shape" transform="translate(620.437,-439.411)">
 			<title>Rectangle.25</title>
 			<desc>Sub-type pre-conditions should be weakened or equal to the ba...</desc>
 			<v:userDefs>
@@ -157,7 +161,7 @@
 			<rect x="0" y="873.071" width="113.386" height="56.6929" class="st3"/>
 			<text x="7.84" y="892.42" class="st7" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Sub-type pre-conditions <tspan
 						x="9.23" dy="1.2em" class="st8">should be weakened or </tspan><tspan x="10.87" dy="1.2em" class="st8">equal to the base</tspan>-type</text>		</g>
-		<g id="shape27-61" v:mID="27" v:groupContext="shape" transform="translate(788.031,-438.378)">
+		<g id="shape27-63" v:mID="27" v:groupContext="shape" transform="translate(788.031,-438.378)">
 			<title>Rectangle.27</title>
 			<desc>Sub-type post-conditions should be strenghtened or equal to t...</desc>
 			<v:userDefs>
@@ -168,11 +172,11 @@
 			<rect x="0" y="873.071" width="113.386" height="56.6929" class="st3"/>
 			<text x="5.81" y="892.42" class="st7" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Sub-type post-conditions <tspan
 						x="8.32" dy="1.2em" class="st8">should be strenghtened </tspan><tspan x="5.36" dy="1.2em" class="st8">or equal to the base</tspan>-type</text>		</g>
-		<g id="shape28-66" v:mID="28" v:groupContext="shape" v:layerMember="0" transform="translate(980.079,-568.346)">
+		<g id="shape28-68" v:mID="28" v:groupContext="shape" v:layerMember="0" transform="translate(980.079,-568.346)">
 			<title>Dynamic connector.28</title>
 			<path d="M0 929.76 L0 954.57 L-135.35 954.57 L-135.35 996" class="st1"/>
 		</g>
-		<g id="shape29-71" v:mID="29" v:groupContext="shape" transform="translate(949.606,-438.378)">
+		<g id="shape29-73" v:mID="29" v:groupContext="shape" transform="translate(949.606,-438.378)">
 			<title>Rectangle.29</title>
 			<desc>Invariants of the base-type must be preserved in the sub-type</desc>
 			<v:userDefs>
@@ -183,11 +187,11 @@
 			<rect x="0" y="873.071" width="113.386" height="56.6929" class="st3"/>
 			<text x="11.27" y="892.42" class="st7" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Invariants of the base-<tspan
 						x="8.46" dy="1.2em" class="st8">type must be preserved </tspan><tspan x="26.07" dy="1.2em" class="st8">in the sub</tspan>-type  </text>		</g>
-		<g id="shape31-76" v:mID="31" v:groupContext="shape" v:layerMember="0" transform="translate(980.079,-568.346)">
+		<g id="shape31-78" v:mID="31" v:groupContext="shape" v:layerMember="0" transform="translate(980.079,-568.346)">
 			<title>Dynamic connector.31</title>
 			<path d="M0 929.76 L0 954.57 L26.22 954.57 L26.22 996" class="st1"/>
 		</g>
-		<g id="shape33-81" v:mID="33" v:groupContext="shape" transform="translate(1303.94,-783.78)">
+		<g id="shape33-83" v:mID="33" v:groupContext="shape" transform="translate(1303.94,-783.78)">
 			<title>Rectangle.33</title>
 			<desc>Less client surprises</desc>
 			<v:userDefs>
@@ -197,7 +201,7 @@
 			<v:textRect cx="56.6929" cy="906.378" width="113.39" height="46.7717"/>
 			<rect x="0" y="882.992" width="113.386" height="46.7717" class="st3"/>
 			<text x="16.49" y="909.38" class="st7" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Less client surprises  </text>		</g>
-		<g id="shape3-84" v:mID="3" v:groupContext="shape" v:layerMember="0" transform="translate(1077.17,-596.693)">
+		<g id="shape3-86" v:mID="3" v:groupContext="shape" v:layerMember="0" transform="translate(1077.17,-596.693)">
 			<title>Dynamic connector</title>
 			<desc>Why?</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -205,11 +209,11 @@
 			<path d="M0 929.76 L58.19 929.76 L58.19 851.81 L63.83 851.81" class="st1"/>
 			<rect v:rectContext="textBkgnd" x="48.8698" y="908.749" width="18.6485" height="9.59985" class="st9"/>
 			<text x="48.87" y="915.95" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why?</text>		</g>
-		<g id="shape35-91" v:mID="35" v:groupContext="shape" v:layerMember="0" transform="translate(1204.72,-702.992)">
+		<g id="shape35-93" v:mID="35" v:groupContext="shape" v:layerMember="0" transform="translate(1204.72,-702.992)">
 			<title>Dynamic connector.35</title>
 			<path d="M0 929.76 L0 825.59 L92.17 825.59" class="st1"/>
 		</g>
-		<g id="shape37-96" v:mID="37" v:groupContext="shape" transform="translate(1459.84,-783.78)">
+		<g id="shape37-98" v:mID="37" v:groupContext="shape" transform="translate(1459.84,-783.78)">
 			<title>Rectangle.37</title>
 			<desc>Less change of breaking (existing) code</desc>
 			<v:userDefs>
@@ -220,11 +224,11 @@
 			<rect x="0" y="882.992" width="113.386" height="46.7717" class="st3"/>
 			<text x="8.38" y="903.38" class="st7" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Less change of breaking <tspan
 						x="27.11" dy="1.2em" class="st8">(existing) code</tspan></text>		</g>
-		<g id="shape38-100" v:mID="38" v:groupContext="shape" v:layerMember="0" transform="translate(1417.32,-800.079)">
+		<g id="shape38-102" v:mID="38" v:groupContext="shape" v:layerMember="0" transform="translate(1417.32,-800.079)">
 			<title>Dynamic connector.38</title>
 			<path d="M0 922.68 L35.48 922.68" class="st1"/>
 		</g>
-		<g id="shape40-105" v:mID="40" v:groupContext="shape" transform="translate(1145.2,-277.795)">
+		<g id="shape40-107" v:mID="40" v:groupContext="shape" transform="translate(1145.2,-277.795)">
 			<title>Rectangle.40</title>
 			<desc>Subtypes may introduce methods that are not present in the ba...</desc>
 			<v:userDefs>
@@ -238,11 +242,11 @@
 						x="5.83" dy="1.2em" class="st8">the introduction of these </tspan><tspan x="5.56" dy="1.2em" class="st8">methods may allow state </tspan><tspan
 						x="8.38" dy="1.2em" class="st8">changes in the sub</tspan>-type <tspan x="10.44" dy="1.2em" class="st8">that are not allowed in </tspan><tspan
 						x="18.78" dy="1.2em" class="st8">the base</tspan>-type. The <tspan x="5.82" dy="1.2em" class="st8">‘</tspan>history rule’ forbids this.  </text>		</g>
-		<g id="shape42-116" v:mID="42" v:groupContext="shape" v:layerMember="0" transform="translate(1194.8,-436.535)">
+		<g id="shape42-118" v:mID="42" v:groupContext="shape" v:layerMember="0" transform="translate(1194.8,-436.535)">
 			<title>Dynamic connector.42</title>
 			<path d="M7.09 929.76 L7.09 959.57" class="st1"/>
 		</g>
-		<g id="shape45-121" v:mID="45" v:groupContext="shape" transform="translate(949.606,-344.835)">
+		<g id="shape45-123" v:mID="45" v:groupContext="shape" transform="translate(949.606,-344.835)">
 			<title>Rectangle.45</title>
 			<desc>I.e. a condition which can be stated true in the entire execu...</desc>
 			<v:userDefs>
@@ -254,15 +258,15 @@
 			<text x="5.04" y="886.42" class="st7" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e. a condition which can <tspan
 						x="15.14" dy="1.2em" class="st8">be stated true in the </tspan><tspan x="14.61" dy="1.2em" class="st8">entire execution of a </tspan><tspan
 						x="37.94" dy="1.2em" class="st8">program.</tspan></text>		</g>
-		<g id="shape46-127" v:mID="46" v:groupContext="shape" v:layerMember="0" transform="translate(999.213,-438.378)">
+		<g id="shape46-129" v:mID="46" v:groupContext="shape" v:layerMember="0" transform="translate(999.213,-438.378)">
 			<title>Dynamic connector.46</title>
 			<path d="M7.09 929.76 L7.09 959.57" class="st1"/>
 		</g>
-		<g id="shape47-132" v:mID="47" v:groupContext="shape" v:layerMember="0" transform="translate(980.079,-568.346)">
+		<g id="shape47-134" v:mID="47" v:groupContext="shape" v:layerMember="0" transform="translate(980.079,-568.346)">
 			<title>Dynamic connector.47</title>
 			<path d="M0 929.76 L0 955.5 L221.81 955.5 L221.81 997.84" class="st1"/>
 		</g>
-		<g id="shape26-137" v:mID="26" v:groupContext="shape" v:layerMember="0" transform="translate(980.079,-568.346)">
+		<g id="shape26-139" v:mID="26" v:groupContext="shape" v:layerMember="0" transform="translate(980.079,-568.346)">
 			<title>Dynamic connector.26</title>
 			<desc>How?</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -270,7 +274,7 @@
 			<path d="M0 929.76 L0 954.57 L-302.95 954.57 L-302.95 994.97" class="st1"/>
 			<rect v:rectContext="textBkgnd" x="-172.107" y="949.767" width="18.6287" height="9.59985" class="st9"/>
 			<text x="-172.11" y="956.97" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>How?</text>		</g>
-		<g id="shape61-144" v:mID="61" v:groupContext="shape" v:layerMember="0" transform="translate(999.213,-344.835)">
+		<g id="shape61-146" v:mID="61" v:groupContext="shape" v:layerMember="0" transform="translate(999.213,-344.835)">
 			<title>Dynamic connector.61</title>
 			<desc>E.g.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -278,7 +282,7 @@
 			<path d="M7.09 929.76 L7.09 958.29" class="st1"/>
 			<rect v:rectContext="textBkgnd" x="1.23124" y="942.747" width="11.7109" height="9.59985" class="st9"/>
 			<text x="1.23" y="949.95" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>E.g.</text>		</g>
-		<g id="shape62-151" v:mID="62" v:groupContext="shape" transform="translate(1328.55,-438.831)">
+		<g id="shape62-153" v:mID="62" v:groupContext="shape" transform="translate(1328.55,-438.831)">
 			<title>Rectangle.62</title>
 			<desc>Derived classes should not throw Exceptions that the base cla...</desc>
 			<v:userDefs>
@@ -290,11 +294,11 @@
 			<text x="17.86" y="886.42" class="st7" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Derived classes should not throw <tspan
 						x="8.06" dy="1.2em" class="st8">Exceptions that the base class doesn</tspan>’t <tspan x="10.41" dy="1.2em"
 						class="st8">throw. Unless the Exception is a sub</tspan>-<tspan x="19.16" dy="1.2em" class="st8">type of the base class Exception. </tspan> </text>		</g>
-		<g id="shape64-157" v:mID="64" v:groupContext="shape" v:layerMember="0" transform="translate(980.079,-568.346)">
+		<g id="shape64-159" v:mID="64" v:groupContext="shape" v:layerMember="0" transform="translate(980.079,-568.346)">
 			<title>Dynamic connector.64</title>
 			<path d="M0 929.76 L0 955.5 L433.51 955.5 L433.51 995.55" class="st1"/>
 		</g>
-		<g id="shape65-162" v:mID="65" v:groupContext="shape" transform="translate(1345.09,-315.099)">
+		<g id="shape65-164" v:mID="65" v:groupContext="shape" transform="translate(1345.09,-315.099)">
 			<title>Rectangle.65</title>
 			<desc>If we do not comply with this rule it might be that clients a...</desc>
 			<v:userDefs>
@@ -308,11 +312,11 @@
 						class="st8">unable to catch the derived </tspan><tspan x="5.1" dy="1.2em" class="st8">exceptions (because they don</tspan>’t <tspan
 						x="18.05" dy="1.2em" class="st8">expect it). This will cause </tspan><tspan x="10.82" dy="1.2em"
 						class="st8">unhandled exceptions in the </tspan><tspan x="52.9" dy="1.2em" class="st8">system.</tspan></text>		</g>
-		<g id="shape66-171" v:mID="66" v:groupContext="shape" v:layerMember="0" transform="translate(1406.5,-438.831)">
+		<g id="shape66-173" v:mID="66" v:groupContext="shape" v:layerMember="0" transform="translate(1406.5,-438.831)">
 			<title>Dynamic connector.66</title>
 			<path d="M7.09 929.76 L7.09 959.57" class="st1"/>
 		</g>
-		<g id="shape67-176" v:mID="67" v:groupContext="shape" transform="translate(417.901,-443.521)">
+		<g id="shape67-178" v:mID="67" v:groupContext="shape" transform="translate(417.901,-443.521)">
 			<title>Rectangle.67</title>
 			<desc>The return type of the subtype should be more concrete or equ...</desc>
 			<v:userDefs>
@@ -323,7 +327,7 @@
 			<rect x="0" y="873.071" width="136.984" height="56.6929" class="st3"/>
 			<text x="6.12" y="892.42" class="st7" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>The return type of the subtype <tspan
 						x="12.11" dy="1.2em" class="st8">should be more concrete or </tspan><tspan x="22.55" dy="1.2em" class="st8">equal to the base class</tspan></text>		</g>
-		<g id="shape69-181" v:mID="69" v:groupContext="shape" transform="translate(410.814,-353.271)">
+		<g id="shape69-183" v:mID="69" v:groupContext="shape" transform="translate(410.814,-353.271)">
 			<title>Rectangle.69</title>
 			<desc>If a return type is less concrete (so more abstract), it migh...</desc>
 			<v:userDefs>
@@ -336,16 +340,16 @@
 						x="19.29" dy="1.2em" class="st8">more abstract), it might not </tspan><tspan x="6.12" dy="1.2em"
 						class="st8">behave the same as the base class </tspan><tspan x="16.3" dy="1.2em" class="st8">return type. This might </tspan>cause <tspan
 						x="16.97" dy="1.2em" class="st8">potential bugs in client code.</tspan></text>		</g>
-		<g id="shape70-188" v:mID="70" v:groupContext="shape" v:layerMember="0" transform="translate(479.306,-443.521)">
+		<g id="shape70-190" v:mID="70" v:groupContext="shape" v:layerMember="0" transform="translate(479.306,-443.521)">
 			<title>Dynamic connector.70</title>
 			<path d="M7.09 929.76 L7.09 944.48" class="st1"/>
 		</g>
-		<g id="shape71-193" v:mID="71" v:groupContext="shape" transform="translate(386.935,-225.455)">
+		<g id="shape71-195" v:mID="71" v:groupContext="shape" transform="translate(386.935,-225.455)">
 			<title>Sheet.71</title>
 			<rect v:rectContext="foreign" x="0" y="834.438" width="194.167" height="95.3256" class="st11"/>
 			<image x="0" y="834.438" width="194.167" height="95.3256" preserveAspectRatio="none" xlink:href="data:image/png;base64,
-						iVBORw0KGgoAAAANSUhEUgAAAfEAAAD0CAYAAACLiB96AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0
-						Ad5mH3gAACw6SURBVHhe7Z17zCbVfZhjJXHaymkurlqltjFgey/ftwsGw+JrIL4AWlKuSyCUoharRTRetoW6gLCTLibbzdJE1IthVUUp
+						iVBORw0KGgoAAAANSUhEUgAAAfEAAAD0CAYAAACLiB96AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7D
+						AcdvqGQAACw6SURBVHhe7Z17zCbVfZhjJXHaymkurlqltjFgey/ftwsGw+JrIL4AWlKuSyCUoharRTRetoW6gLCTLibbzdJE1IthVUUp
 						3TbaiNWq0G2Lo1JZLFFZo4KS0m29oCZBWPyxAiFZK/MP0umcOefMnMvvzJx5d97ve+f7nj8erb6Z37nMuzPnOb8z8877E1svuVIBAADA
 						9EDiAAAAEwWJAwAATBQkDgAAMFGQOAAAwERB4gAAABMFiQMAAEwUJA4AADBRkDgAAMBEQeIAAAATBYkDAABMFCQOAAAwUZA4AADAREHi
 						AAAAEwWJAwAATBQkDgAAMFGQOAAAwERB4gAAABMFiQMAAEwUJA4AADBRkDgAAMBEQeIAAAATBYkDAABMFCQOAAAwUVZe4jc/r245+rb6
@@ -493,7 +497,7 @@
 						AABgoiBxAACAiYLEAQAAJsmV6v8Dm5ZuC6un7aoAAAAASUVORK5CYII="/>
 			<rect v:rectContext="foreign" x="0" y="834.438" width="194.167" height="95.3256" class="st11"/>
 		</g>
-		<g id="shape72-197" v:mID="72" v:groupContext="shape" v:layerMember="0" transform="translate(479.306,-353.271)">
+		<g id="shape72-199" v:mID="72" v:groupContext="shape" v:layerMember="0" transform="translate(479.306,-353.271)">
 			<title>Dynamic connector.72</title>
 			<desc>E.g.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -501,12 +505,12 @@
 			<path d="M7.09 929.76 L7.09 955.21" class="st1"/>
 			<rect v:rectContext="textBkgnd" x="1.23124" y="941.209" width="11.7109" height="9.59985" class="st9"/>
 			<text x="1.23" y="948.41" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>E.g.</text>		</g>
-		<g id="shape73-204" v:mID="73" v:groupContext="shape" transform="translate(1318.11,-116.76)">
+		<g id="shape73-206" v:mID="73" v:groupContext="shape" transform="translate(1318.11,-116.76)">
 			<title>Sheet.73</title>
 			<rect v:rectContext="foreign" x="0" y="782.448" width="190.952" height="147.316" class="st11"/>
 			<image x="0" y="782.448" width="190.952" height="147.316" preserveAspectRatio="none" xlink:href="data:image/png;base64,
-						iVBORw0KGgoAAAANSUhEUgAAAiMAAAGmCAYAAACuv4RHAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0
-						Ad5mH3gAAF7ASURBVHhe7b1rzCXHeaC3Gwe5bBJ742AT2BZlWZI5MxxSd1E320PLMkchE0kj0SuGqzAAtWtBsEdEhtmIhLJISNEDhtwo
+						iVBORw0KGgoAAAANSUhEUgAAAiMAAAGmCAYAAACuv4RHAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7D
+						AcdvqGQAAF7ASURBVHhe7b1rzCXHeaC3Gwe5bBJ742AT2BZlWZI5MxxSd1E320PLMkchE0kj0SuGqzAAtWtBsEdEhtmIhLJISNEDhtwo
 						jkdLDgLbUQabHUcTZiUQiJMFg0RDe8llIm4S7iRLEraXJsAfAxIEBML+I6DT1VXVXfXWW9XV5/T5+pzvPD8ezHzddevqrnqfU93n9F+4
 						4UOfbAAAAACWAhkBAACARUFGAAAAYFGQEQAAAFgUZAQAAAAWBRkBAACARUFGAAAAYFGQEQAAAFgUZAQAAAAWBRkBAACARUFGAAAAYFGQ
 						EQAAAFgUZAQAAAAWBRkBAACARUFGAAAAYFGQEQAAAFgUZAQAAAAWBRkBAACARUFGAAAAYFGQEQAAAFgUZAQAAAAW5eBk5PanmjueeL35
@@ -820,15 +824,15 @@
 						ACzIJ5v/H5sF5SkeF38eAAAAAElFTkSuQmCC"/>
 			<rect v:rectContext="foreign" x="0" y="782.448" width="190.952" height="147.316" class="st11"/>
 		</g>
-		<g id="shape74-208" v:mID="74" v:groupContext="shape" v:layerMember="0" transform="translate(1406.5,-315.099)">
+		<g id="shape74-210" v:mID="74" v:groupContext="shape" v:layerMember="0" transform="translate(1406.5,-315.099)">
 			<title>Dynamic connector.74</title>
 			<desc>E.g.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="955.276" width="40" height="17.6036"/>
 			<path d="M7.09 929.76 L7.09 973.75" class="st1"/>
-			<rect v:rectContext="textBkgnd" x="1.23124" y="950.476" width="11.7109" height="9.59985" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="1.23124" y="950.476" width="11.7109" height="9.59985" class="st12"/>
 			<text x="1.23" y="957.68" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>E.g.</text>		</g>
-		<g id="shape76-215" v:mID="76" v:groupContext="shape" v:layerMember="0" transform="translate(670.044,-439.411)">
+		<g id="shape76-217" v:mID="76" v:groupContext="shape" v:layerMember="0" transform="translate(670.044,-439.411)">
 			<title>Dynamic connector.76</title>
 			<desc>E.g.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -836,12 +840,12 @@
 			<path d="M7.09 929.76 L7.09 953.41" class="st1"/>
 			<rect v:rectContext="textBkgnd" x="1.23124" y="940.307" width="11.7109" height="9.59985" class="st9"/>
 			<text x="1.23" y="947.51" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>E.g.</text>		</g>
-		<g id="shape77-222" v:mID="77" v:groupContext="shape" transform="translate(777.667,-224.148)">
+		<g id="shape77-224" v:mID="77" v:groupContext="shape" transform="translate(777.667,-224.148)">
 			<title>Sheet.77</title>
 			<rect v:rectContext="foreign" x="0" y="762.731" width="134.114" height="167.033" class="st11"/>
 			<image x="0" y="762.731" width="134.114" height="167.033" preserveAspectRatio="none" xlink:href="data:image/png;base64,
-						iVBORw0KGgoAAAANSUhEUgAAAUoAAAGbCAYAAACiS9mPAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0
-						Ad5mH3gAADXgSURBVHhe7Z37rx7Hed/7f0iiRImSLFnUlSItyTZpW5YEKqUkmqoMVzEM2QWjxiRbG62sqkGhS1iGQgKldKnTNDWIg6JE
+						iVBORw0KGgoAAAANSUhEUgAAAUoAAAGbCAYAAACiS9mPAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7D
+						AcdvqGQAADXgSURBVHhe7Z37rx7Hed/7f0iiRImSLFnUlSItyTZpW5YEKqUkmqoMVzEM2QWjxiRbG62sqkGhS1iGQgKldKnTNDWIg6JE
 						xKgWQyBuEyGFjtuYESymgHDaHhMtwijgDwcUDAiE/YuB6c5tdy7PMzO7776X3ff7wwcSd2ZnZ3dnPvvM7Htm/972XY8JAAAAPBAlAABk
 						gCgBACADRAkAABkgSgAAyABRAgBABogSAAAyQJQAAJABogQAgAwQJQAAZIAoAQAgA0QJAAAZIEoAAMgAUQIAQIa5iXL3ysfim6d/LHYS
 						aQ0nxKOnq3znLB+JR79K5TN89cfiayrfh2I3lT4H1HnW9f9YPPUdOh8YAI88L37+8sviV5bvPS9ep/KB0bHgonT4zoeDFGWNqRtEWcbr
@@ -1021,7 +1025,7 @@
 						LcK/AAAAAElFTkSuQmCC"/>
 			<rect v:rectContext="foreign" x="0" y="762.731" width="134.114" height="167.033" class="st11"/>
 		</g>
-		<g id="shape78-226" v:mID="78" v:groupContext="shape" v:layerMember="0" transform="translate(837.638,-438.378)">
+		<g id="shape78-228" v:mID="78" v:groupContext="shape" v:layerMember="0" transform="translate(837.638,-438.378)">
 			<title>Dynamic connector.78</title>
 			<desc>E.g.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -1029,12 +1033,12 @@
 			<path d="M7.09 929.76 L7.09 969.92" class="st1"/>
 			<rect v:rectContext="textBkgnd" x="1.23124" y="948.562" width="11.7109" height="9.59985" class="st12"/>
 			<text x="1.23" y="955.76" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>E.g.</text>		</g>
-		<g id="shape79-233" v:mID="79" v:groupContext="shape" transform="translate(915.004,-161.283)">
+		<g id="shape79-235" v:mID="79" v:groupContext="shape" transform="translate(915.004,-161.283)">
 			<title>Sheet.79</title>
 			<rect v:rectContext="foreign" x="0" y="781.779" width="182.82" height="147.985" class="st11"/>
 			<image x="0" y="781.779" width="182.82" height="147.985" preserveAspectRatio="none" xlink:href="data:image/png;base64,
-						iVBORw0KGgoAAAANSUhEUgAAAqUAAAIkCAYAAAAnNFJPAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0
-						Ad5mH3gAAHK9SURBVHhe7d3/8yVXfd/5/T8MEhJCfNV3kDAYJGxAIBIEsoQwIWwKcGQ2lkRQvIIi6ypLWiGG9Wa8AkmJ11nV2NlZMyVb
+						iVBORw0KGgoAAAANSUhEUgAAAqUAAAIkCAYAAAAnNFJPAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7D
+						AcdvqGQAAHK9SURBVHhe7d3/8yVXfd/5/T8MEhJCfNV3kDAYJGxAIBIEsoQwIWwKcGQ2lkRQvIIi6ypLWiGG9Wa8AkmJ11nV2NlZMyVb
 						2inHS2ViR4MXlKlI2ZQ82QxT2dpZUvPD1KiooqbgF1ed7dPnnO5z3ud9uk/3595P33s/zx8eNXNvnz7n9Om+3a/P6b6fz391zS0fMQAA
 						AMCSCKUAAABYHKEUAAAAiyOUAgAAYHGEUgAAACyOUAoAAIDFEUoBAACwOEIpAAAAFkcoBQAAwOIIpQAAAFgcoRQAAACLI5QCAABgcYRS
 						AAAALI5QCgAAgMURSgEAALA4QikAAAAWRygFAADA4gilAAAAWByhFAAAAIsjlAIAAGBxqwuln/6++czx18wXgqPfNzdr5QDUu/sh8ze/
@@ -1413,12 +1417,12 @@
 						AAAWRygFAADA4gilAAAAWByhFAAAAIsjlAIAAGBxhFIAAAAsjlAKAACAxRFKAQAAsLCPmP8fcNQimco4/noAAAAASUVORK5CYII="/>
 			<rect v:rectContext="foreign" x="0" y="781.779" width="182.82" height="147.985" class="st11"/>
 		</g>
-		<g id="shape80-237" v:mID="80" v:groupContext="shape" transform="translate(1117.63,-161.283)">
+		<g id="shape80-239" v:mID="80" v:groupContext="shape" transform="translate(1117.63,-161.283)">
 			<title>Sheet.80</title>
 			<rect v:rectContext="foreign" x="0" y="849.67" width="179.219" height="80.0933" class="st11"/>
 			<image x="0" y="849.67" width="179.219" height="80.0933" preserveAspectRatio="none" xlink:href="data:image/png;base64,
-						iVBORw0KGgoAAAANSUhEUgAAAcQAAADKCAYAAAA7IjDbAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0
-						Ad5mH3gAACM1SURBVHhe7Z39ryXFmZjzf/gD429Y8Nh8DPbauzP22owDERg8DojsshGOhZAMRJAEHCtK+MgsgWhDNA5MPrQhE0Wj3dFk
+						iVBORw0KGgoAAAANSUhEUgAAAcQAAADKCAYAAAA7IjDbAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7D
+						AcdvqGQAACM1SURBVHhe7Z39ryXFmZjzf/gD429Y8Nh8DPbauzP22owDERg8DojsshGOhZAMRJAEHCtK+MgsgWhDNA5MPrQhE0Wj3dFk
 						QSPtKgmKxCDFIxKzWbETCUZKQmbFDyNGSBayf7FUqeqq6q56663u6r5n7j3n3ueHRzO36+utvqfrOW/1uaf/yrU3fdsAAADsdRAiAACA
 						BSECAABYECIAAIAFIQIAAFgQIgAAgAUhAgAAWBAiAACABSECAABYECIAAIAFIQIAAFgQIgAAgOWyC/HAsUvm+ydeN/uVsoGj5tAJW+90
 						5II5dLdWL3D36+aert5b5oBWvgN08+zjv2TueESvBxvAzQ+YD554wvwq8vgD5jmtHgDsKtZEiAmPvLWRQuwJsSHENp6770dWOo+ak0rZ
@@ -1536,15 +1540,15 @@
 						AADAghABAAAsCBEAAMCCEAEAACwIEQAAwIIQAQAALAgRAADAghABAAAsCBEAAOCmb5v/D63hXjHRPF5iAAAAAElFTkSuQmCC"/>
 			<rect v:rectContext="foreign" x="0" y="849.67" width="179.219" height="80.0933" class="st11"/>
 		</g>
-		<g id="shape81-241" v:mID="81" v:groupContext="shape" v:layerMember="0" transform="translate(1194.8,-277.795)">
+		<g id="shape81-243" v:mID="81" v:groupContext="shape" v:layerMember="0" transform="translate(1194.8,-277.795)">
 			<title>Dynamic connector.81</title>
 			<desc>E.g.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="947.973" width="40" height="17.6036"/>
 			<path d="M7.09 929.76 L7.09 959.14" class="st1"/>
-			<rect v:rectContext="textBkgnd" x="1.23124" y="943.173" width="11.7109" height="9.59985" class="st12"/>
+			<rect v:rectContext="textBkgnd" x="1.23124" y="943.173" width="11.7109" height="9.59985" class="st9"/>
 			<text x="1.23" y="950.37" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>E.g.</text>		</g>
-		<g id="group82-248" transform="translate(1611.92,-631.205)" v:mID="82" v:groupContext="group">
+		<g id="group82-250" transform="translate(1611.92,-631.205)" v:mID="82" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -1558,7 +1562,7 @@
 			</v:userDefs>
 			<title>Folded Corner.56</title>
 			<desc>When adhering to the Liskov Substitution principle we need le...</desc>
-			<g id="shape82-249" v:mID="82" v:groupContext="groupContent">
+			<g id="shape82-251" v:mID="82" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="106.299" cy="886.323" width="212.6" height="86.8819"/>
 				<path d="M0 929.76 L203.28 929.76 L212.6 913.16 L212.6 842.88 L0 842.88 L0 929.76 Z" class="st13"/>
@@ -1568,7 +1572,7 @@
 							dy="1.2em" class="st8">is permitted by the concrete type. This results in </tspan><tspan x="4"
 							dy="1.2em" class="st8">less conditional checks and reduces the overall </tspan><tspan x="4" dy="1.2em"
 							class="st8">complexity of the system. </tspan> </text>			</g>
-			<g id="shape83-259" v:mID="83" v:groupContext="shape" transform="translate(198.425,1.13687E-13)">
+			<g id="shape83-261" v:mID="83" v:groupContext="shape" transform="translate(198.425,1.13687E-13)">
 				<title>Sheet.83</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -1585,7 +1589,7 @@
 				<path d="M4.85 929.76 L14.17 913.16 L0 921.81 L4.85 929.76 Z" class="st15"/>
 			</g>
 		</g>
-		<g id="shape84-263" v:mID="84" v:groupContext="shape" v:layerMember="0" transform="translate(1573.23,-667.559)">
+		<g id="shape84-265" v:mID="84" v:groupContext="shape" v:layerMember="0" transform="translate(1573.23,-667.559)">
 			<title>Dynamic connector.84</title>
 			<desc>E.g</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -1593,7 +1597,7 @@
 			<path d="M0 922.68 L31.65 922.68" class="st1"/>
 			<rect v:rectContext="textBkgnd" x="14.5007" y="917.877" width="9.69131" height="9.59985" class="st9"/>
 			<text x="14.5" y="925.08" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>E.g</text>		</g>
-		<g id="group85-270" transform="translate(1611.92,-726.148)" v:mID="85" v:groupContext="group">
+		<g id="group85-272" transform="translate(1611.92,-726.148)" v:mID="85" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -1607,7 +1611,7 @@
 			</v:userDefs>
 			<title>Folded Corner.85</title>
 			<desc>Clients of a collection of base class items expect that each ...</desc>
-			<g id="shape85-271" v:mID="85" v:groupContext="groupContent">
+			<g id="shape85-273" v:mID="85" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="106.299" cy="848.747" width="212.6" height="162.034"/>
 				<path d="M0 929.76 L197.74 929.76 L212.6 915.58 L212.6 767.73 L0 767.73 L0 929.76 Z" class="st13"/>
@@ -1622,7 +1626,7 @@
 							x="4" dy="1.2em" class="st8">and violates LSP. The new item, in case of a </tspan>‘large’ <tspan x="4"
 							dy="1.2em" class="st8">system , is being </tspan>‘swallowed’ and we cannot <tspan x="4" dy="1.2em"
 							class="st8">oversee where and how it is being used.</tspan></text>			</g>
-			<g id="shape86-287" v:mID="86" v:groupContext="shape" transform="translate(197.744,1.13687E-13)">
+			<g id="shape86-289" v:mID="86" v:groupContext="shape" transform="translate(197.744,1.13687E-13)">
 				<title>Sheet.86</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -1639,20 +1643,20 @@
 				<path d="M0 929.76 L14.85 915.58 L0.68 914.92 L0 929.76 Z" class="st15"/>
 			</g>
 		</g>
-		<g id="shape87-290" v:mID="87" v:groupContext="shape" v:layerMember="0" transform="translate(1573.23,-800.079)">
+		<g id="shape87-292" v:mID="87" v:groupContext="shape" v:layerMember="0" transform="translate(1573.23,-800.079)">
 			<title>Dynamic connector.87</title>
 			<desc>E.g.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="19.3465" cy="922.677" width="40" height="17.6036"/>
 			<path d="M0 922.68 L31.65 922.68" class="st1"/>
-			<rect v:rectContext="textBkgnd" x="13.4911" y="917.877" width="11.7109" height="9.59985" class="st12"/>
+			<rect v:rectContext="textBkgnd" x="13.4911" y="917.877" width="11.7109" height="9.59985" class="st9"/>
 			<text x="13.49" y="925.08" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>E.g.</text>		</g>
-		<g id="shape88-297" v:mID="88" v:groupContext="shape" transform="translate(584.475,-318.369)">
+		<g id="shape88-299" v:mID="88" v:groupContext="shape" transform="translate(584.475,-318.369)">
 			<title>Sheet.88</title>
 			<rect v:rectContext="foreign" x="0" y="839.25" width="189.383" height="90.514" class="st11"/>
 			<image x="0" y="839.25" width="189.383" height="90.514" preserveAspectRatio="none" xlink:href="data:image/png;base64,
-						iVBORw0KGgoAAAANSUhEUgAAAiAAAAEECAYAAAARXI+hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0
-						Ad5mH3gAADuSSURBVHhe7Z1r0CXHWZgRl4CJw8VAAliSsS3td13LkrBkW4aVb1ojg2zJsq0oKieRCMaALCJB2YpDiKxla5GIMVlbWhJi
+						iVBORw0KGgoAAAANSUhEUgAAAiAAAAEECAYAAAARXI+hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7D
+						AcdvqGQAADuSSURBVHhe7Z1r0CXHWZgRl4CJw8VAAliSsS3td13LkrBkW4aVb1ojg2zJsq0oKieRCMaALCJB2YpDiKxla5GIMVlbWhJi
 						xIZkibYEVjZcs4TyqhIJpSwXEV+CtBWCLNf+2FqVq1wq/IeqyfRtpi9v98w5Z8585zvf8+Op3e9MT0+fmel+n/NOz8zX7L3yHRUAAADA
 						mCAgAAAAMDoICAAAAIwOAgIAAACjg4AAAADA6CAgAAAAMDoICAAAAIwOAgIAAACjg4AAAADA6CAgAAAAMDoICAAAAIwOAgIAAACjg4AA
 						AADA6CAgAAAAMDoICAAAAIzO/AXkpseqm0+8UN3mOPZYdYVUDnYEx2+/p/qbe1qevVEuBwAAUGLUDMi+IwhIfz5QPVsH+C/f+h5h2QJw
@@ -1849,6 +1853,47 @@
 						bgUBAYCJmWqexulv0JNSJ5GFeaLufNHZlcwEXCVZpXfQAMBsICAAMBXrHRKyUgf2lS+8pFo99r3mV/9b3irWswiol9VtfuD11cZPXm6e
 						TSLcRQMAw4KAAMBMqMec6wD+vqvMXTNv3J/cXgsAEIOAAAAAwOggIAAAADAy76j+P8GZq/dwbau1AAAAAElFTkSuQmCC"/>
 			<rect v:rectContext="foreign" x="0" y="839.25" width="189.383" height="90.514" class="st11"/>
+		</g>
+		<g id="group89-303" transform="translate(1307.29,-553.252)" v:mID="89" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
+				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.22574718579111):1"/>
+				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(1.0592628386426):32"/>
+				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.1294429555383):1"/>
+				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23058249342619):1"/>
+			</v:userDefs>
+			<title>Folded Corner.89</title>
+			<desc>We often use inheritance to adhere to open-closed principle, ...</desc>
+			<g id="shape89-304" v:mID="89" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="106.299" cy="886.323" width="212.6" height="86.8819"/>
+				<path d="M0 929.76 L203.28 929.76 L212.6 913.16 L212.6 842.88 L0 842.88 L0 929.76 Z" class="st13"/>
+				<text x="4" y="855.88" class="st14" v:langID="1033"><v:paragraph/><v:tabList/>We often use inheritance to adhere to open-<tspan
+							x="4" dy="1.2em" class="st8">closed principle, because inheritance makes it </tspan><tspan x="4"
+							dy="1.2em" class="st8">possible to added new functionality while </tspan><tspan x="4" dy="1.2em"
+							class="st8">minimizing the adjustment of existing code. </tspan><tspan x="4" dy="1.2em" class="st8">Adding new functionality, using inheritance, can </tspan><tspan
+							x="4" dy="1.2em" class="st8">only be done is a </tspan>‘safe’ and ‘reliable’ way when <tspan x="4"
+							dy="1.2em" class="st8">we adhere to LSP.</tspan></text>			</g>
+			<g id="shape90-314" v:mID="90" v:groupContext="shape" transform="translate(198.425,1.13687E-13)">
+				<title>Sheet.90</title>
+				<v:userDefs>
+					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
+					<v:ud v:nameU="ControlY" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(2.7559051704528):1"/>
+					<v:ud v:nameU="ControlY" v:prompt="" v:val="VT0(0.11050663720253):1"/>
+					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.1294429555383):1"/>
+					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23058249342619):1"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#4672c4)"/>
+				</v:userDefs>
+				<path d="M4.85 929.76 L14.17 913.16 L0 921.81 L4.85 929.76 Z" class="st15"/>
+			</g>
 		</g>
 	</g>
 </svg>
