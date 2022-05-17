@@ -9,10 +9,10 @@ The above example violates the history rule of LSP. The base contract 'tells' us
 
 # Solution
 
+To solve this problem we have to carefully think about the state first. Certain states, like 'Open' and 'Close' are very specific for a valve, but cannot be applied to a pump. So, why are we trying to fit these devices under the same base? What do they have in common? It seems that they have a lifecycle in common; Initialize, Uninitialize, etc. The lifecycle controls a generic part for all device, i.e. to enable/disable manual control. Let's rename the base class to **LifeCycleDevice** and seperate the valve state from the lifecylce state.
+
 ![Base](https://github.com/NiekBeijloos/SOLID/blob/master/3.%20Liskov%20Substitution%20Principle/Examples/History%20rule/Solution/Base.png?raw=true)
 
 ![Derived](https://github.com/NiekBeijloos/SOLID/blob/master/3.%20Liskov%20Substitution%20Principle/Examples/History%20rule/Solution/Derived.png?raw=true)
 
-To solve this problem we have to carefully think about the state first. Certain states, like 'Open' and 'Close' are very specific for a valve, but cannot be applied to a pump. So, why are we trying to fit these devices under the same base? What do they have in common? It seems that they have a lifecycle in common; Initialize, Uninitialize, etc. The lifecycle controls a generic part for all device, i.e. to enable/disable manual control.
-
-Let's rename the base class to **LifeCycleDevice** and seperate the valve state from the lifecylce state. Now our **Initalize** function will set the state of the LifeCycle and the Valve will keep track of its own state. We completly shifted responsibilities and resolved the LSP violation.
+Now our **Initalize** function will set the state of the LifeCycle and the Valve will keep track of its own state. We completly shifted responsibilities and resolved the LSP violation.
