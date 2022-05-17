@@ -1,5 +1,6 @@
 # Violation
-![LSP](https://github.com/NiekBeijloos/SOLID/blob/master/3.%20Liskov%20Substitution%20Principle/Examples/History%20rule/Violation/Base.png?raw=true)
+![Base](https://github.com/NiekBeijloos/SOLID/blob/master/3.%20Liskov%20Substitution%20Principle/Examples/History%20rule/Violation/Base.png?raw=true)
+![Derived](https://github.com/NiekBeijloos/SOLID/blob/master/3.%20Liskov%20Substitution%20Principle/Examples/History%20rule/Violation/Derived.png?raw=true)
 
 The above example violates the history rule of LSP. The base contract 'tells' us that the state of the device will not change in the **Initialize** function. However, the sub type (= Valve) additionally sets the state. From the base contract point of view no state change is expected after calling **Initialize**. Client code could be dependent on this contraint. This example is very wrong, but believe it or not, it does happen!
 
