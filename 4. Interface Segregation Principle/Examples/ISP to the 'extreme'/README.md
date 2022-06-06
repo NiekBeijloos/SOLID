@@ -58,7 +58,7 @@ We will get the following options:
 
 ![alt text](Search.png "Search")
 
- It does not seem like a problem on small scale, but it will be on large scale. Let's say we introduce new interfaces and keep composing these composite interfaces from smaller interfaces. The search mechanism within our IDE will find more and more matches, because all the 'composite' interfaces will point to the single function interfaces. You can see how this eventually can result in a searching 'hell'. 
+ We will get two options here. This does not seem like a problem on small scale, but it will be on large scale. Let's say we introduce new interfaces and keep composing these composite interfaces from smaller interfaces. The search mechanism within our IDE will find more and more matches, because all the 'composite' interfaces will point to the single function interfaces. You can see how this eventually can result in a searching 'hell'. 
 
 How could we have done differently?
 
@@ -73,4 +73,4 @@ However, these interfaces don't fit our new use-case: **SpecialDatabase**. What 
 Searching for the **Get** implementation within our **SpecialDatabaseClient** will now directly point to the correct concrete implementation. This way we do not have to spend time on searching and concluding which concrete implementation belongs to the used interface.
 
 ## Conclusion
-Applying ISP to the 'extreme' would mean a single function per interface. This brings reusability and makes us fully comply with ISP. However, the complexity of our codebase increases. More concrete implementations will implement the same interface, resulting in a codebase that is hard navigate through. In addition, our interfaces will be scattered, resulting in a decrease in readability. Navigating and readability helps us understand the code intent more quickly, reducing the time spent on a new feature or bug. 
+Applying ISP to the 'extreme' would mean a single function per interface. This brings reusability and makes us fully comply with ISP. However, the complexity of our codebase increases. More concrete implementations will implement the same interface, resulting in a codebase that is hard to navigate through. In addition, our interfaces will be scattered, resulting in a decrease in readability. Navigating and readability helps us understand the code intent more quickly, reducing the time spent on a new feature or bug. 
