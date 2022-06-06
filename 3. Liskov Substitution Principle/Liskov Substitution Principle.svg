@@ -344,7 +344,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="39.6349" cy="857.48" width="40" height="17.6036"/>
 			<path d="M0 857.48 L71.67 857.48" class="st13"/>
-			<rect v:rectContext="textBkgnd" x="34.6172" y="852.681" width="10.0352" height="9.59985" class="st20"/>
+			<rect v:rectContext="textBkgnd" x="34.6172" y="852.681" width="10.0352" height="9.59985" class="st18"/>
 			<text x="34.62" y="859.88" class="st24" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
 		<g id="shape36-124" v:mID="36" v:groupContext="shape" transform="translate(36.0236,-322.441)">
 			<title>Rectangle.96</title>
@@ -1838,7 +1838,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="877.921" width="40" height="17.6036"/>
 			<path d="M7.09 864.57 L7.09 883.67" class="st1"/>
-			<rect v:rectContext="textBkgnd" x="1.23124" y="873.121" width="11.7109" height="9.59985" class="st20"/>
+			<rect v:rectContext="textBkgnd" x="1.23124" y="873.121" width="11.7109" height="9.59985" class="st18"/>
 			<text x="1.23" y="880.32" class="st25" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>E.g.</text>		</g>
 		<g id="shape65-224" v:mID="65" v:groupContext="shape" transform="translate(574.606,-219.818)">
 			<title>Rectangle.45</title>
@@ -1883,7 +1883,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="877.921" width="40" height="17.6036"/>
 			<path d="M7.09 864.57 L7.09 883.67" class="st1"/>
-			<rect v:rectContext="textBkgnd" x="2.06894" y="873.121" width="10.0352" height="9.59985" class="st20"/>
+			<rect v:rectContext="textBkgnd" x="2.06894" y="873.121" width="10.0352" height="9.59985" class="st18"/>
 			<text x="2.07" y="880.32" class="st25" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
 		<g id="shape71-255" v:mID="71" v:groupContext="shape" v:layerMember="0" transform="translate(838.737,-219.818)">
 			<title>Dynamic connector.71</title>
@@ -1928,7 +1928,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="877.921" width="40" height="17.6036"/>
 			<path d="M7.09 864.57 L7.09 883.67" class="st1"/>
-			<rect v:rectContext="textBkgnd" x="2.06894" y="873.121" width="10.0352" height="9.59985" class="st20"/>
+			<rect v:rectContext="textBkgnd" x="2.06894" y="873.121" width="10.0352" height="9.59985" class="st18"/>
 			<text x="2.07" y="880.32" class="st25" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
 		<g id="shape77-293" v:mID="77" v:groupContext="shape" v:layerMember="0" transform="translate(1017.95,-219.818)">
 			<title>Dynamic connector.77</title>
@@ -1936,7 +1936,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="877.921" width="40" height="17.6036"/>
 			<path d="M7.09 864.57 L7.09 883.67" class="st1"/>
-			<rect v:rectContext="textBkgnd" x="1.23124" y="873.121" width="11.7109" height="9.59985" class="st20"/>
+			<rect v:rectContext="textBkgnd" x="1.23124" y="873.121" width="11.7109" height="9.59985" class="st18"/>
 			<text x="1.23" y="880.32" class="st25" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>E.g.</text>		</g>
 		<g id="shape78-300" v:mID="78" v:groupContext="shape" transform="translate(816.732,-445.748)">
 			<title>Rectangle.4</title>
@@ -1995,8 +1995,8 @@
 				<text x="4" y="752.67" class="st32" v:langID="1033"><v:paragraph/><v:tabList/>When adhering to LSP we are forced to use <tspan
 							x="4" dy="1.2em" class="st10">inheritance in a </tspan>‘correct’ way. This means we <tspan x="4"
 							dy="1.2em" class="st10">subtype only from a base class when it can be </tspan><tspan x="4" dy="1.2em"
-							class="st10">substitutable. In case that this is not applicable </tspan><tspan x="4" dy="1.2em"
-							class="st10">we create a new base class or we re</tspan>-structure the <tspan x="4" dy="1.2em"
+							class="st10">substituted. In case that this is not applicable we </tspan><tspan x="4" dy="1.2em"
+							class="st10">create a new base class or </tspan>we re-structure the <tspan x="4" dy="1.2em"
 							class="st10">inheritance tree in a different way. The careful </tspan><tspan x="4" dy="1.2em"
 							class="st10">thinking of base classes and inheritance trees </tspan><tspan x="4" dy="1.2em"
 							class="st10">create better re</tspan>-usable code. This means that the <tspan x="4" dy="1.2em"
@@ -2025,7 +2025,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="39.6349" cy="857.48" width="40" height="17.6036"/>
 			<path d="M0 857.48 L71.67 857.48" class="st29"/>
-			<rect v:rectContext="textBkgnd" x="34.6172" y="852.681" width="10.0352" height="9.59985" class="st18"/>
+			<rect v:rectContext="textBkgnd" x="34.6172" y="852.681" width="10.0352" height="9.59985" class="st20"/>
 			<text x="34.62" y="859.88" class="st34" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
 	</g>
 </svg>
