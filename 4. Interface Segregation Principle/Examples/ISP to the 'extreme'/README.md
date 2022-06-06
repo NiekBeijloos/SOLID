@@ -1,7 +1,7 @@
 # Example
 ## Context
 
-Taking ISP to the extreme would mean a single function per interface. This will ensure that we adhere to the ISP. The downside is that these single function interfaces make our depedency injection 'model' more difficult. Injecting multiple times the same object into different interfaces increases API complexity, testability effort and is redudant. 
+Taking ISP to the extreme would mean a single function per interface. This will ensure that we adhere to the ISP. The downside of this approach is that these single function interfaces make our depedency injection 'model' more difficult. Injecting multiple times the same object into different interfaces increases API complexity, testability effort and is redudant. 
 
 How can we solve this problem? 
 
