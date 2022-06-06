@@ -35,21 +35,21 @@
 		.st20 {fill:#d06d29;font-family:Calibri;font-size:0.833336em}
 		.st21 {fill:url(#grad0-91);stroke:#d06d29;stroke-width:0.75}
 		.st22 {fill:#d06d29;font-family:Calibri;font-size:0.666664em}
-		.st23 {fill:#ffffff;stroke:none;stroke-linecap:butt}
-		.st24 {fill:url(#grad0-169);stroke:#61973d;stroke-width:0.75}
-		.st25 {fill:#61973d;font-family:Calibri;font-size:0.833336em}
-		.st26 {fill:url(#grad0-179);stroke:#61973d;stroke-width:0.75}
-		.st27 {fill:#61973d;font-family:Calibri;font-size:0.666664em}
-		.st28 {fill:#3c63ac;stroke:#30518f;stroke-width:0.75}
-		.st29 {fill:url(#grad0-199);stroke:#3c63ac;stroke-width:0.75}
-		.st30 {fill:#3c63ac;font-family:Calibri;font-size:0.833336em}
-		.st31 {fill:url(#grad0-209);stroke:#3c63ac;stroke-width:0.75}
-		.st32 {fill:#3c63ac;font-family:Calibri;font-size:0.666664em}
-		.st33 {marker-end:url(#mrkr4-298);stroke:#759fcc;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st23 {fill:url(#grad0-169);stroke:#61973d;stroke-width:0.75}
+		.st24 {fill:#61973d;font-family:Calibri;font-size:0.833336em}
+		.st25 {fill:url(#grad0-179);stroke:#61973d;stroke-width:0.75}
+		.st26 {fill:#61973d;font-family:Calibri;font-size:0.666664em}
+		.st27 {fill:#3c63ac;stroke:#30518f;stroke-width:0.75}
+		.st28 {fill:url(#grad0-199);stroke:#3c63ac;stroke-width:0.75}
+		.st29 {fill:#3c63ac;font-family:Calibri;font-size:0.833336em}
+		.st30 {fill:url(#grad0-209);stroke:#3c63ac;stroke-width:0.75}
+		.st31 {fill:#3c63ac;font-family:Calibri;font-size:0.666664em}
+		.st32 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st33 {marker-end:url(#mrkr4-256);stroke:#759fcc;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
 		.st34 {fill:#759fcc;fill-opacity:1;stroke:#759fcc;stroke-opacity:1;stroke-width:0.52631578947368}
-		.st35 {fill:url(#grad0-318);stroke:#668bb3;stroke-width:0.75}
+		.st35 {fill:url(#grad0-276);stroke:#668bb3;stroke-width:0.75}
 		.st36 {fill:#668bb3;font-family:Calibri;font-size:0.833336em}
-		.st37 {fill:url(#grad0-329);stroke:#668bb3;stroke-width:0.75}
+		.st37 {fill:url(#grad0-287);stroke:#668bb3;stroke-width:0.75}
 		.st38 {fill:#668bb3;font-family:Calibri;font-size:0.666664em}
 		.st39 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
@@ -96,12 +96,12 @@
 			<stop offset="0.24" stop-color="#cfd3e9" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#cfd3e9" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-318" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-276" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#ebeff5" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#f5f7fa" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#feffff" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-329" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-287" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#c8d3e6" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#d1dceb" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#d1dceb" stop-opacity="1"/>
@@ -123,7 +123,7 @@
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend4" transform="scale(-1.9,-1.9) "/>
 		</marker>
-		<marker id="mrkr4-298" class="st34" v:arrowType="4" v:arrowSize="1" v:setback="3.8" refX="-3.8" orient="auto"
+		<marker id="mrkr4-256" class="st34" v:arrowType="4" v:arrowSize="1" v:setback="3.8" refX="-3.8" orient="auto"
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend4" transform="scale(-1.9,-1.9) "/>
 		</marker>
@@ -148,7 +148,7 @@
 			<text x="53.65" y="841.39" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/><tspan class="st3">Single Responsibility Principle (SRP)</tspan><v:newlineChar/><tspan
 						x="5.23" dy="1.2em" class="st4">Each software module should have one and only one reason </tspan><tspan
 						x="106.25" dy="1.2em" class="st4">to change.</tspan></text>		</g>
-		<g id="shape2-7" v:mID="2" v:groupContext="shape" transform="translate(626.457,-657.691)">
+		<g id="shape2-7" v:mID="2" v:groupContext="shape" transform="translate(625.647,-654.095)">
 			<title>Rectangle.21</title>
 			<desc>Maintainability</desc>
 			<v:userDefs>
@@ -168,7 +168,7 @@
 			<v:textRect cx="42.5197" cy="870.945" width="85.04" height="43.937"/>
 			<rect x="0" y="848.976" width="85.0394" height="43.937" class="st7"/>
 			<text x="20.33" y="873.94" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Reusability</text>		</g>
-		<g id="shape5-13" v:mID="5" v:groupContext="shape" transform="translate(625.647,-231.803)">
+		<g id="shape5-13" v:mID="5" v:groupContext="shape" transform="translate(625.647,-243.071)">
 			<title>Rectangle.22</title>
 			<desc>Testability</desc>
 			<v:userDefs>
@@ -180,7 +180,7 @@
 			<text x="21.56" y="873.94" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Testability</text>		</g>
 		<g id="shape6-18" v:mID="6" v:groupContext="shape" v:layerMember="0" transform="translate(498.898,-348.661)">
 			<title>Dynamic connector</title>
-			<path d="M0 892.91 L85.04 892.91 L85.04 561.92 L119.96 561.92" class="st9"/>
+			<path d="M0 892.91 L85.04 892.91 L85.04 565.51 L119.15 565.51" class="st9"/>
 		</g>
 		<g id="shape7-24" v:mID="7" v:groupContext="shape" v:layerMember="0" transform="translate(498.898,-355.748)">
 			<title>Dynamic connector.7</title>
@@ -190,93 +190,93 @@
 			<title>Dynamic connector.8</title>
 			<desc>Why?</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="22.0028" cy="892.616" width="45" height="18.8036"/>
-			<path d="M0 892.91 L85.04 892.91 L85.04 987.8 L119.15 987.8" class="st13"/>
-			<rect v:rectContext="textBkgnd" x="11.2933" y="887.216" width="21.4189" height="10.7998" class="st15"/>
-			<text x="11.29" y="895.32" class="st16" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why?</text>		</g>
-		<g id="shape11-38" v:mID="11" v:groupContext="shape" transform="translate(754.093,-799.397)">
+			<v:textRect cx="20.8842" cy="892.616" width="45" height="18.8036"/>
+			<path d="M0 892.91 L85.04 892.91 L85.04 976.54 L119.15 976.54" class="st13"/>
+			<rect v:rectContext="textBkgnd" x="10.1747" y="887.216" width="21.4189" height="10.7998" class="st15"/>
+			<text x="10.17" y="895.32" class="st16" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why?</text>		</g>
+		<g id="shape11-38" v:mID="11" v:groupContext="shape" transform="translate(754.016,-735.768)">
 			<title>Rectangle.43</title>
 			<desc>Less likely to break existing code unrelated to the change</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-			<v:textRect cx="62.4626" cy="857.206" width="124.93" height="71.4153"/>
-			<rect x="0" y="821.498" width="124.925" height="71.4153" class="st5"/>
-			<text x="7.58" y="834.5" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Less likely to break existing <tspan
-						x="18.29" dy="1.2em" class="st17">code unrelated to the </tspan><tspan x="47.86" dy="1.2em" class="st17">change</tspan></text>		</g>
-		<g id="shape12-43" v:mID="12" v:groupContext="shape" v:layerMember="0" transform="translate(711.496,-679.659)">
+			<v:textRect cx="63.2598" cy="870.945" width="126.52" height="43.937"/>
+			<rect x="0" y="848.976" width="126.52" height="43.937" class="st5"/>
+			<text x="8.37" y="861.98" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Less likely to break existing <tspan
+						x="19.08" dy="1.2em" class="st17">code unrelated to the </tspan><tspan x="48.66" dy="1.2em" class="st17">change</tspan></text>		</g>
+		<g id="shape12-43" v:mID="12" v:groupContext="shape" v:layerMember="0" transform="translate(710.686,-676.063)">
 			<title>Dynamic connector.12</title>
-			<path d="M0 892.91 L13.68 892.91 L13.68 737.47 L35 737.47" class="st9"/>
+			<path d="M0 892.91 L13.68 892.91 L13.68 811.24 L35.73 811.24" class="st9"/>
 		</g>
-		<g id="shape13-48" v:mID="13" v:groupContext="shape" transform="translate(753.283,-688.713)">
+		<g id="shape13-48" v:mID="13" v:groupContext="shape" transform="translate(754.016,-654.095)">
 			<title>Rectangle.41</title>
 			<desc>Less code complexity</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-			<v:textRect cx="63.2598" cy="844.281" width="126.52" height="97.2638"/>
-			<rect x="0" y="795.65" width="126.52" height="97.2638" class="st18"/>
-			<text x="20.37" y="808.65" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Less code complexity</text>		</g>
-		<g id="shape14-53" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(711.496,-679.659)">
+			<v:textRect cx="63.2598" cy="870.945" width="126.52" height="43.937"/>
+			<rect x="0" y="848.976" width="126.52" height="43.937" class="st18"/>
+			<text x="20.37" y="861.98" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Less code complexity</text>		</g>
+		<g id="shape14-53" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(710.686,-668.976)">
 			<title>Dynamic connector.14</title>
-			<path d="M0 892.91 L13.68 892.91 L13.68 835.23 L34.19 835.23" class="st9"/>
+			<path d="M0 885.83 L35.73 885.83" class="st9"/>
 		</g>
-		<g id="shape15-58" v:mID="15" v:groupContext="shape" transform="translate(754.093,-567.319)">
+		<g id="shape15-58" v:mID="15" v:groupContext="shape" transform="translate(754.016,-573.307)">
 			<title>Rectangle.15</title>
 			<desc>Identify affects of changes easier and quicker</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-			<v:textRect cx="63.2598" cy="837.514" width="126.52" height="110.799"/>
-			<rect x="0" y="782.114" width="126.52" height="110.799" class="st18"/>
-			<text x="9.85" y="795.11" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Identify affects of changes <tspan
+			<v:textRect cx="63.2598" cy="870.945" width="126.52" height="43.937"/>
+			<rect x="0" y="848.976" width="126.52" height="43.937" class="st18"/>
+			<text x="9.85" y="861.98" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Identify affects of changes <tspan
 						x="26.11" dy="1.2em" class="st17">easier and quicker</tspan></text>		</g>
-		<g id="shape16-63" v:mID="16" v:groupContext="shape" v:layerMember="0" transform="translate(711.496,-679.659)">
+		<g id="shape16-63" v:mID="16" v:groupContext="shape" v:layerMember="0" transform="translate(710.686,-676.063)">
 			<title>Dynamic connector.16</title>
-			<path d="M0 892.91 L13.68 892.91 L13.68 949.85 L35 949.85" class="st9"/>
+			<path d="M0 892.91 L13.68 892.91 L13.68 973.7 L35.73 973.7" class="st9"/>
 		</g>
-		<g id="shape17-68" v:mID="17" v:groupContext="shape" transform="translate(754.093,-485.681)">
+		<g id="shape17-68" v:mID="17" v:groupContext="shape" transform="translate(754.016,-500.315)">
 			<title>Rectangle.17</title>
 			<desc>Overcome merge conflicts in collaboration</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-			<v:textRect cx="63.2598" cy="858.012" width="126.52" height="69.8032"/>
-			<rect x="0" y="823.11" width="126.52" height="69.8032" class="st18"/>
-			<text x="5.05" y="836.11" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Overcome merge conflicts in <tspan
+			<v:textRect cx="63.2598" cy="870.945" width="126.52" height="43.937"/>
+			<rect x="0" y="848.976" width="126.52" height="43.937" class="st18"/>
+			<text x="5.05" y="861.98" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Overcome merge conflicts in <tspan
 						x="36.33" dy="1.2em" class="st17">collaboration</tspan></text>		</g>
-		<g id="shape18-73" v:mID="18" v:groupContext="shape" v:layerMember="0" transform="translate(711.496,-679.659)">
+		<g id="shape18-73" v:mID="18" v:groupContext="shape" v:layerMember="0" transform="translate(710.686,-676.063)">
 			<title>Dynamic connector.18</title>
-			<path d="M0 892.91 L13.68 892.91 L13.68 1051.99 L35 1051.99" class="st9"/>
+			<path d="M0 892.91 L13.68 892.91 L13.68 1046.69 L35.73 1046.69" class="st9"/>
 		</g>
-		<g id="group19-78" transform="translate(937.636,-800.203)" v:mID="19" v:groupContext="group">
+		<g id="group19-78" transform="translate(936.903,-722.835)" v:mID="19" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
 				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
-				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.25481618317651):1"/>
-				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.88279889099847):32"/>
-				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.16492547477343):1"/>
-				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.20064536954958):1"/>
+				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.25530638465504):1"/>
+				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.88437610381522):32"/>
+				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.16502900629125):1"/>
+				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.20141809333952):1"/>
 			</v:userDefs>
 			<title>Folded Corner.59</title>
 			<desc>A module containing multiple responsibilities, will have mult...</desc>
 			<g id="shape19-79" v:mID="19" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-				<v:textRect cx="113.702" cy="858.012" width="227.41" height="69.8032"/>
-				<path d="M0 892.91 L215.53 892.91 L227.4 878.47 L227.4 823.11 L0 823.11 L0 892.91 Z" class="st19"/>
+				<v:textRect cx="114.068" cy="858.012" width="228.14" height="69.8032"/>
+				<path d="M0 892.91 L216.25 892.91 L228.14 878.41 L228.14 823.11 L0 823.11 L0 892.91 Z" class="st19"/>
 				<text x="4" y="836.11" class="st20" v:langID="1033"><v:paragraph/><v:tabList/>A module containing multiple responsibilities, will <tspan
 							x="4" dy="1.2em" class="st17">have multiple reasons to change. When introducing </tspan><tspan x="4"
 							dy="1.2em" class="st17">new functionality in such a module, there is a higher </tspan><tspan x="4"
 							dy="1.2em" class="st17">risk that other responsibilities, unrelated to the </tspan><tspan x="4"
 							dy="1.2em" class="st17">change, will be affected.</tspan></text>			</g>
-			<g id="shape20-88" v:mID="20" v:groupContext="shape" transform="translate(213.23,1.13687E-13)">
+			<g id="shape20-88" v:mID="20" v:groupContext="shape" transform="translate(213.917,1.13687E-13)">
 				<title>Sheet.20</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -284,48 +284,48 @@
 					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT0(1):26"/>
-					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(2.9615290598192):1"/>
+					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(2.9710693953482):1"/>
 					<v:ud v:nameU="ControlY" v:prompt="" v:val="VT0(0.16180609439032):1"/>
-					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.16492547477343):1"/>
-					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.20064536954958):1"/>
+					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.16502900629125):1"/>
+					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.20141809333952):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ed7d31)"/>
 				</v:userDefs>
-				<path d="M2.3 892.91 L14.17 878.47 L0 881.26 L2.3 892.91 Z" class="st21"/>
+				<path d="M2.34 892.91 L14.22 878.41 L0 881.26 L2.34 892.91 Z" class="st21"/>
 			</g>
 		</g>
-		<g id="shape21-92" v:mID="21" v:groupContext="shape" v:layerMember="0" transform="translate(879.018,-828.018)">
+		<g id="shape21-92" v:mID="21" v:groupContext="shape" v:layerMember="0" transform="translate(880.535,-750.65)">
 			<title>Dynamic connector.21</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="29.3089" cy="885.827" width="40" height="17.6036"/>
-			<path d="M0 885.83 L51.02 885.83" class="st9"/>
-			<rect v:rectContext="textBkgnd" x="24.2912" y="881.027" width="10.0352" height="9.59985" class="st15"/>
-			<text x="24.29" y="888.23" class="st22" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="group25-99" transform="translate(937.636,-699.077)" v:mID="25" v:groupContext="group">
+			<v:textRect cx="28.184" cy="885.827" width="40" height="17.6036"/>
+			<path d="M0 885.83 L48.77 885.83" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="23.1664" y="881.027" width="10.0352" height="9.59985" class="st15"/>
+			<text x="23.17" y="888.23" class="st22" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
+		<g id="group25-99" transform="translate(936.903,-637.795)" v:mID="25" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
 				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
-				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.25301607539712):1"/>
-				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.89150055231378):32"/>
-				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.16260352658915):1"/>
-				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.20136727072245):1"/>
+				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.25350975769455):1"/>
+				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.8930720677759):32"/>
+				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.16271451406367):1"/>
+				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.20215384874499):1"/>
 			</v:userDefs>
 			<title>Folded Corner.25</title>
 			<desc>Multiple modules, all performing a single responsibility, is ...</desc>
 			<g id="shape25-100" v:mID="25" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-				<v:textRect cx="113.702" cy="854.646" width="227.41" height="76.5354"/>
-				<path d="M0 892.91 L215.7 892.91 L227.4 878.41 L227.4 816.38 L0 816.38 L0 892.91 Z" class="st19"/>
+				<v:textRect cx="114.068" cy="854.646" width="228.14" height="76.5354"/>
+				<path d="M0 892.91 L216.42 892.91 L228.14 878.36 L228.14 816.38 L0 816.38 L0 892.91 Z" class="st19"/>
 				<text x="4" y="829.38" class="st20" v:langID="1033"><v:paragraph/><v:tabList/>Multiple modules, all performing a single <tspan
 							x="4" dy="1.2em" class="st17">responsibility, is easier to read and understand in </tspan><tspan x="4"
 							dy="1.2em" class="st17">comparison to a monolithic, </tspan>‘god’ class fulfilling <tspan x="4"
 							dy="1.2em" class="st17">multiple responsibilities. Easy understandable code </tspan><tspan x="4"
 							dy="1.2em" class="st17">will enhance design, reduce bugs and time spend on a </tspan><tspan x="4"
 							dy="1.2em" class="st17">change or addition.</tspan></text>			</g>
-			<g id="shape26-109" v:mID="26" v:groupContext="shape" transform="translate(213.23,1.13687E-13)">
+			<g id="shape26-109" v:mID="26" v:groupContext="shape" transform="translate(213.917,1.13687E-13)">
 				<title>Sheet.26</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -333,47 +333,47 @@
 					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT0(1):26"/>
-					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(2.9615290598192):1"/>
+					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(2.9710693953482):1"/>
 					<v:ud v:nameU="ControlY" v:prompt="" v:val="VT0(0.15895615553532):1"/>
-					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.16260352658915):1"/>
-					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.20136727072245):1"/>
+					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.16271451406367):1"/>
+					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.20215384874499):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ed7d31)"/>
 				</v:userDefs>
-				<path d="M2.47 892.91 L14.17 878.41 L0 881.47 L2.47 892.91 Z" class="st21"/>
+				<path d="M2.5 892.91 L14.22 878.36 L0 881.47 L2.5 892.91 Z" class="st21"/>
 			</g>
 		</g>
-		<g id="shape27-112" v:mID="27" v:groupContext="shape" v:layerMember="0" transform="translate(879.803,-730.258)">
+		<g id="shape27-112" v:mID="27" v:groupContext="shape" v:layerMember="0" transform="translate(880.535,-668.976)">
 			<title>Dynamic connector.27</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="28.9166" cy="885.827" width="40" height="17.6036"/>
-			<path d="M0 885.83 L50.23 885.83" class="st9"/>
-			<rect v:rectContext="textBkgnd" x="23.8989" y="881.027" width="10.0352" height="9.59985" class="st15"/>
-			<text x="23.9" y="888.23" class="st22" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="group28-119" transform="translate(937.636,-587.011)" v:mID="28" v:groupContext="group">
+			<v:textRect cx="28.184" cy="885.827" width="40" height="17.6036"/>
+			<path d="M0 885.83 L48.77 885.83" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="23.1664" y="881.027" width="10.0352" height="9.59985" class="st15"/>
+			<text x="23.17" y="888.23" class="st22" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
+		<g id="group28-119" transform="translate(936.904,-559.568)" v:mID="28" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
 				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
-				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.24509980355697):1"/>
-				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.93255333946027):32"/>
-				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.15258774567705):1"/>
-				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.20569476388983):1"/>
+				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.24560939831499):1"/>
+				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.93409159626632):32"/>
+				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.15273089460515):1"/>
+				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.20655098605084):1"/>
 			</v:userDefs>
 			<title>Folded Corner</title>
 			<desc>It is easier to ‘pin-point’ out what might be the functional ...</desc>
 			<g id="shape28-120" v:mID="28" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-				<v:textRect cx="113.702" cy="857.206" width="227.41" height="71.4153"/>
-				<path d="M0 892.91 L216.42 892.91 L227.4 878.1 L227.4 821.5 L0 821.5 L0 892.91 Z" class="st19"/>
+				<v:textRect cx="114.068" cy="857.206" width="228.14" height="71.4153"/>
+				<path d="M0 892.91 L217.14 892.91 L228.14 878.04 L228.14 821.5 L0 821.5 L0 892.91 Z" class="st19"/>
 				<text x="4" y="834.5" class="st20" v:langID="1033"><v:paragraph/><v:tabList/>It is easier to ‘pin-point’ out what might be the <tspan
 							x="4" dy="1.2em" class="st17">functional affect of changing a module when it only </tspan><tspan x="4"
 							dy="1.2em" class="st17">performs a single responsibility, because code is more </tspan><tspan x="4"
 							dy="1.2em" class="st17">separated. This will improve time estimates, design </tspan><tspan x="4"
 							dy="1.2em" class="st17">and overcome bugs. </tspan> </text>			</g>
-			<g id="shape29-128" v:mID="29" v:groupContext="shape" transform="translate(213.23,1.13687E-13)">
+			<g id="shape29-128" v:mID="29" v:groupContext="shape" transform="translate(213.917,1.13687E-13)">
 				<title>Sheet.29</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -381,24 +381,24 @@
 					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT0(1):26"/>
-					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(2.9615290598192):1"/>
+					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(2.9710693953482):1"/>
 					<v:ud v:nameU="ControlY" v:prompt="" v:val="VT0(0.14602684231632):1"/>
-					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.15258774567705):1"/>
-					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.20569476388983):1"/>
+					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.15273089460515):1"/>
+					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.20655098605084):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ed7d31)"/>
 				</v:userDefs>
-				<path d="M3.19 892.91 L14.17 878.1 L0 882.4 L3.19 892.91 Z" class="st21"/>
+				<path d="M3.22 892.91 L14.22 878.04 L0 882.4 L3.22 892.91 Z" class="st21"/>
 			</g>
 		</g>
-		<g id="shape30-131" v:mID="30" v:groupContext="shape" v:layerMember="0" transform="translate(880.613,-615.632)">
+		<g id="shape30-131" v:mID="30" v:groupContext="shape" v:layerMember="0" transform="translate(880.535,-588.189)">
 			<title>Dynamic connector.30</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="28.5116" cy="885.827" width="40" height="17.6036"/>
-			<path d="M0 885.83 L49.42 885.83" class="st9"/>
-			<rect v:rectContext="textBkgnd" x="23.4939" y="881.027" width="10.0352" height="9.59985" class="st23"/>
-			<text x="23.49" y="888.23" class="st22" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="group31-138" transform="translate(936.904,-490.11)" v:mID="31" v:groupContext="group">
+			<v:textRect cx="28.1841" cy="885.827" width="40" height="17.6036"/>
+			<path d="M0 885.83 L48.77 885.83" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="23.1664" y="881.027" width="10.0352" height="9.59985" class="st15"/>
+			<text x="23.17" y="888.23" class="st22" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
+		<g id="group31-138" transform="translate(936.904,-491.811)" v:mID="31" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -437,24 +437,24 @@
 				<path d="M3.4 892.91 L13.44 878.63 L0 883.46 L3.4 892.91 Z" class="st21"/>
 			</g>
 		</g>
-		<g id="shape33-149" v:mID="33" v:groupContext="shape" v:layerMember="0" transform="translate(880.613,-513.496)">
+		<g id="shape33-149" v:mID="33" v:groupContext="shape" v:layerMember="0" transform="translate(880.535,-515.197)">
 			<title>Dynamic connector.33</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="28.1454" cy="885.827" width="40" height="17.6036"/>
-			<path d="M0 885.83 L48.69 885.83" class="st9"/>
-			<rect v:rectContext="textBkgnd" x="23.1277" y="881.027" width="10.0352" height="9.59985" class="st23"/>
-			<text x="23.13" y="888.23" class="st22" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape34-156" v:mID="34" v:groupContext="shape" transform="translate(754.016,-318.189)">
+			<v:textRect cx="28.1841" cy="885.827" width="40" height="17.6036"/>
+			<path d="M0 885.83 L48.77 885.83" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="23.1664" y="881.027" width="10.0352" height="9.59985" class="st15"/>
+			<text x="23.17" y="888.23" class="st22" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
+		<g id="shape34-156" v:mID="34" v:groupContext="shape" transform="translate(754.016,-326.693)">
 			<title>Rectangle.34</title>
 			<desc>Simplify reuse of modules in other parts of the system</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-			<v:textRect cx="63.2598" cy="862.441" width="126.52" height="60.9449"/>
-			<rect x="0" y="831.968" width="126.52" height="60.9449" class="st7"/>
-			<text x="5.87" y="844.97" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Simplify reuse of modules in <tspan
+			<v:textRect cx="63.2598" cy="870.945" width="126.52" height="43.937"/>
+			<rect x="0" y="848.976" width="126.52" height="43.937" class="st7"/>
+			<text x="5.87" y="861.98" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Simplify reuse of modules in <tspan
 						x="11.89" dy="1.2em" class="st17">other parts of the system</tspan></text>		</g>
 		<g id="shape35-160" v:mID="35" v:groupContext="shape" v:layerMember="0" transform="translate(710.686,-341.575)">
 			<title>Dynamic connector.35</title>
@@ -477,8 +477,8 @@
 			<g id="shape36-166" v:mID="36" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="113.702" cy="854.646" width="227.41" height="76.5354"/>
-				<path d="M0 892.91 L216.41 892.91 L227.4 879.13 L227.4 816.38 L0 816.38 L0 892.91 Z" class="st24"/>
-				<text x="4" y="829.38" class="st25" v:langID="1033"><v:paragraph/><v:tabList/>Modules which have a single responsibility and only <tspan
+				<path d="M0 892.91 L216.41 892.91 L227.4 879.13 L227.4 816.38 L0 816.38 L0 892.91 Z" class="st23"/>
+				<text x="4" y="829.38" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>Modules which have a single responsibility and only <tspan
 							x="4" dy="1.2em" class="st17">one reason to change can be re</tspan>-used more frequently <tspan x="4"
 							dy="1.2em" class="st17">in other projects/parts of the system. This is because </tspan><tspan x="4"
 							dy="1.2em" class="st17">it is more likely to </tspan>‘fit’ a particular use-case than a <tspan x="4"
@@ -498,7 +498,7 @@
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.19149222755152):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#70ad47)"/>
 				</v:userDefs>
-				<path d="M2.45 892.91 L13.44 879.13 L0 882.2 L2.45 892.91 Z" class="st26"/>
+				<path d="M2.45 892.91 L13.44 879.13 L0 882.2 L2.45 892.91 Z" class="st25"/>
 			</g>
 		</g>
 		<g id="shape38-180" v:mID="38" v:groupContext="shape" v:layerMember="0" transform="translate(880.535,-341.575)">
@@ -508,22 +508,22 @@
 			<v:textRect cx="28.1841" cy="885.827" width="40" height="17.6036"/>
 			<path d="M0 885.83 L48.77 885.83" class="st11"/>
 			<rect v:rectContext="textBkgnd" x="23.1664" y="881.027" width="10.0352" height="9.59985" class="st15"/>
-			<text x="23.17" y="888.23" class="st27" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape48-187" v:mID="48" v:groupContext="shape" transform="translate(754.016,-225.425)">
+			<text x="23.17" y="888.23" class="st26" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
+		<g id="shape48-187" v:mID="48" v:groupContext="shape" transform="translate(754.016,-243.071)">
 			<title>Rectangle.48</title>
 			<desc>Minimize problem window</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-			<v:textRect cx="63.2598" cy="864.567" width="126.52" height="56.6929"/>
-			<rect x="0" y="836.22" width="126.52" height="56.6929" class="st28"/>
-			<text x="8.75" y="849.22" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Minimize problem window<v:newlineChar/></text>		</g>
-		<g id="shape49-190" v:mID="49" v:groupContext="shape" v:layerMember="0" transform="translate(710.686,-246.685)">
+			<v:textRect cx="63.2598" cy="870.945" width="126.52" height="43.937"/>
+			<rect x="0" y="848.976" width="126.52" height="43.937" class="st27"/>
+			<text x="8.75" y="861.98" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Minimize problem window<v:newlineChar/></text>		</g>
+		<g id="shape49-190" v:mID="49" v:groupContext="shape" v:layerMember="0" transform="translate(710.686,-257.953)">
 			<title>Dynamic connector.49</title>
 			<path d="M0 885.83 L35.73 885.83" class="st13"/>
 		</g>
-		<g id="group54-195" transform="translate(936.904,-215.504)" v:mID="54" v:groupContext="group">
+		<g id="group54-195" transform="translate(936.904,-226.772)" v:mID="54" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -540,8 +540,8 @@
 			<g id="shape54-196" v:mID="54" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="113.702" cy="854.646" width="227.41" height="76.5354"/>
-				<path d="M0 892.91 L215.96 892.91 L227.4 879.26 L227.4 816.38 L0 816.38 L0 892.91 Z" class="st29"/>
-				<text x="4" y="829.38" class="st30" v:langID="1033"><v:paragraph/><v:tabList/>Testing a module which only fulfills a single <tspan
+				<path d="M0 892.91 L215.96 892.91 L227.4 879.26 L227.4 816.38 L0 816.38 L0 892.91 Z" class="st28"/>
+				<text x="4" y="829.38" class="st29" v:langID="1033"><v:paragraph/><v:tabList/>Testing a module which only fulfills a single <tspan
 							x="4" dy="1.2em" class="st17">responsibility will be easier and quicker to test, </tspan><tspan x="4"
 							dy="1.2em" class="st17">because it contains less use</tspan>-cases. Testing our <tspan x="4" dy="1.2em"
 							class="st17">software easier and quicker means we can identify </tspan><tspan x="4" dy="1.2em"
@@ -561,133 +561,33 @@
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.18958711868824):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#4672c4)"/>
 				</v:userDefs>
-				<path d="M2 892.91 L13.44 879.26 L0 881.65 L2 892.91 Z" class="st31"/>
+				<path d="M2 892.91 L13.44 879.26 L0 881.65 L2 892.91 Z" class="st30"/>
 			</g>
 		</g>
-		<g id="shape67-210" v:mID="67" v:groupContext="shape" transform="translate(753.283,-741.827)">
-			<title>Rectangle.67</title>
-			<desc>Design++</desc>
-			<v:userDefs>
-				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
-			</v:userDefs>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="42.5197" cy="881.096" width="85.04" height="23.6338"/>
-			<rect x="0" y="869.28" width="85.0394" height="23.6338" class="st18"/>
-			<text x="23.89" y="884.1" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Design++</text>		</g>
-		<g id="shape68-214" v:mID="68" v:groupContext="shape" transform="translate(753.283,-718.193)">
-			<title>Rectangle.68</title>
-			<desc>Bugs--</desc>
-			<v:userDefs>
-				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
-			</v:userDefs>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="42.5197" cy="881.096" width="85.04" height="23.6338"/>
-			<rect x="0" y="869.28" width="85.0394" height="23.6338" class="st18"/>
-			<text x="29.8" y="884.1" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Bugs--</text>		</g>
-		<g id="shape69-218" v:mID="69" v:groupContext="shape" transform="translate(754.093,-624.012)">
-			<title>Rectangle.69</title>
-			<desc>Time estimates++</desc>
-			<v:userDefs>
-				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
-			</v:userDefs>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="42.5197" cy="881.096" width="85.04" height="23.6338"/>
-			<rect x="0" y="869.28" width="85.0394" height="23.6338" class="st18"/>
-			<text x="6.57" y="884.1" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Time estimates++</text>		</g>
-		<g id="shape72-222" v:mID="72" v:groupContext="shape" transform="translate(754.093,-577.754)">
-			<title>Rectangle.72</title>
-			<desc>Bugs--</desc>
-			<v:userDefs>
-				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
-			</v:userDefs>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="42.5197" cy="881.096" width="85.04" height="23.6338"/>
-			<rect x="0" y="869.28" width="85.0394" height="23.6338" class="st18"/>
-			<text x="29.8" y="884.1" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Bugs--</text>		</g>
-		<g id="shape73-226" v:mID="73" v:groupContext="shape" transform="translate(754.093,-601.388)">
-			<title>Rectangle.73</title>
-			<desc>Design++</desc>
-			<v:userDefs>
-				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
-			</v:userDefs>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="42.5197" cy="881.096" width="85.04" height="23.6338"/>
-			<rect x="0" y="869.28" width="85.0394" height="23.6338" class="st18"/>
-			<text x="23.89" y="884.1" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Design++</text>		</g>
-		<g id="shape74-230" v:mID="74" v:groupContext="shape" transform="translate(753.283,-694.896)">
-			<title>Rectangle.74</title>
-			<desc>Time spent--</desc>
-			<v:userDefs>
-				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
-			</v:userDefs>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="42.5197" cy="881.096" width="85.04" height="23.6338"/>
-			<rect x="0" y="869.28" width="85.0394" height="23.6338" class="st18"/>
-			<text x="16.89" y="884.1" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Time spent--</text>		</g>
-		<g id="shape75-234" v:mID="75" v:groupContext="shape" transform="translate(754.093,-502.175)">
-			<title>Rectangle.75</title>
-			<desc>Time spent--</desc>
-			<v:userDefs>
-				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
-			</v:userDefs>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="42.5197" cy="881.096" width="85.04" height="23.6338"/>
-			<rect x="0" y="869.28" width="85.0394" height="23.6338" class="st18"/>
-			<text x="16.89" y="884.1" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Time spent--</text>		</g>
-		<g id="shape76-238" v:mID="76" v:groupContext="shape" transform="translate(754.093,-804.526)">
-			<title>Rectangle.76</title>
-			<desc>Bugs--</desc>
-			<v:userDefs>
-				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
-			</v:userDefs>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="42.5197" cy="881.096" width="85.04" height="23.6338"/>
-			<rect x="0" y="869.28" width="85.0394" height="23.6338" class="st18"/>
-			<text x="29.8" y="884.1" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Bugs--</text>		</g>
-		<g id="shape77-242" v:mID="77" v:groupContext="shape" transform="translate(754.093,-326.693)">
-			<title>Rectangle.77</title>
-			<desc>Time spent--</desc>
-			<v:userDefs>
-				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
-			</v:userDefs>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="42.5197" cy="881.096" width="85.04" height="23.6338"/>
-			<rect x="0" y="869.28" width="85.0394" height="23.6338" class="st7"/>
-			<text x="16.89" y="884.1" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Time spent--</text>		</g>
-		<g id="shape83-245" v:mID="83" v:groupContext="shape" v:layerMember="0" transform="translate(880.535,-246.685)">
+		<g id="shape83-210" v:mID="83" v:groupContext="shape" v:layerMember="0" transform="translate(880.535,-257.953)">
 			<title>Dynamic connector.83</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="28.1841" cy="885.827" width="40" height="17.6036"/>
 			<path d="M0 885.83 L48.77 885.83" class="st13"/>
 			<rect v:rectContext="textBkgnd" x="23.1664" y="881.027" width="10.0352" height="9.59985" class="st15"/>
-			<text x="23.17" y="888.23" class="st32" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape84-252" v:mID="84" v:groupContext="shape" transform="translate(754.016,-241.955)">
-			<title>Rectangle.84</title>
-			<desc>Time spent--</desc>
-			<v:userDefs>
-				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
-			</v:userDefs>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="42.5197" cy="881.096" width="85.04" height="23.6338"/>
-			<rect x="0" y="869.28" width="85.0394" height="23.6338" class="st8"/>
-			<text x="16.89" y="884.1" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Time spent--</text>		</g>
-		<g id="shape85-256" v:mID="85" v:groupContext="shape" transform="translate(754.016,-137.303)">
+			<text x="23.17" y="888.23" class="st31" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
+		<g id="shape85-217" v:mID="85" v:groupContext="shape" transform="translate(754.016,-162.815)">
 			<title>Rectangle.85</title>
 			<desc>Enhance identification of use and edge cases</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-			<v:textRect cx="63.2598" cy="861.289" width="126.52" height="63.248"/>
-			<rect x="0" y="829.665" width="126.52" height="63.248" class="st28"/>
-			<text x="4.34" y="842.67" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Enhance identification of use <tspan
+			<v:textRect cx="63.2598" cy="870.945" width="126.52" height="43.937"/>
+			<rect x="0" y="848.976" width="126.52" height="43.937" class="st27"/>
+			<text x="4.34" y="861.98" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Enhance identification of use <tspan
 						x="32.49" dy="1.2em" class="st17">and edge cases</tspan></text>		</g>
-		<g id="shape86-260" v:mID="86" v:groupContext="shape" v:layerMember="0" transform="translate(710.686,-253.772)">
+		<g id="shape86-221" v:mID="86" v:groupContext="shape" v:layerMember="0" transform="translate(710.686,-265.039)">
 			<title>Dynamic connector.86</title>
-			<path d="M0 892.91 L13.68 892.91 L13.68 977.76 L35.73 977.76" class="st13"/>
+			<path d="M0 892.91 L13.68 892.91 L13.68 973.17 L35.73 973.17" class="st13"/>
 		</g>
-		<g id="group87-265" transform="translate(936.904,-134.026)" v:mID="87" v:groupContext="group">
+		<g id="group87-226" transform="translate(936.904,-149.882)" v:mID="87" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -701,16 +601,16 @@
 			</v:userDefs>
 			<title>Folded Corner.87</title>
 			<desc>A module that fulfills a single responsibility makes it easie...</desc>
-			<g id="shape87-266" v:mID="87" v:groupContext="groupContent">
+			<g id="shape87-227" v:mID="87" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="113.702" cy="858.012" width="227.41" height="69.8032"/>
-				<path d="M0 892.91 L216.45 892.91 L227.4 879.11 L227.4 823.11 L0 823.11 L0 892.91 Z" class="st29"/>
-				<text x="4" y="836.11" class="st30" v:langID="1033"><v:paragraph/><v:tabList/>A module that fulfills a single responsibility makes it <tspan
+				<path d="M0 892.91 L216.45 892.91 L227.4 879.11 L227.4 823.11 L0 823.11 L0 892.91 Z" class="st28"/>
+				<text x="4" y="836.11" class="st29" v:langID="1033"><v:paragraph/><v:tabList/>A module that fulfills a single responsibility makes it <tspan
 							x="4" dy="1.2em" class="st17">easier to comprehend the edge and </tspan>‘normal’ test <tspan x="4"
 							dy="1.2em" class="st17">cases, because there is more overview in contrast to </tspan><tspan x="4"
 							dy="1.2em" class="st17">a monolithic module. This will improve test coverage </tspan><tspan x="4"
 							dy="1.2em" class="st17">and thus minimize bugs.</tspan></text>			</g>
-			<g id="shape88-274" v:mID="88" v:groupContext="shape" transform="translate(213.963,1.13687E-13)">
+			<g id="shape88-235" v:mID="88" v:groupContext="shape" transform="translate(213.963,1.13687E-13)">
 				<title>Sheet.88</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -724,28 +624,18 @@
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.19169226180121):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#4672c4)"/>
 				</v:userDefs>
-				<path d="M2.49 892.91 L13.44 879.11 L0 882.25 L2.49 892.91 Z" class="st31"/>
+				<path d="M2.49 892.91 L13.44 879.11 L0 882.25 L2.49 892.91 Z" class="st30"/>
 			</g>
 		</g>
-		<g id="shape89-277" v:mID="89" v:groupContext="shape" transform="translate(754.016,-143.858)">
-			<title>Rectangle.89</title>
-			<desc>Bugs--</desc>
-			<v:userDefs>
-				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
-			</v:userDefs>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="42.5197" cy="881.096" width="85.04" height="23.6338"/>
-			<rect x="0" y="869.28" width="85.0394" height="23.6338" class="st28"/>
-			<text x="29.8" y="884.1" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Bugs--</text>		</g>
-		<g id="shape90-280" v:mID="90" v:groupContext="shape" v:layerMember="0" transform="translate(880.535,-161.841)">
+		<g id="shape90-238" v:mID="90" v:groupContext="shape" v:layerMember="0" transform="translate(880.535,-177.697)">
 			<title>Dynamic connector.90</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="28.1841" cy="885.827" width="40" height="17.6036"/>
 			<path d="M0 885.83 L48.77 885.83" class="st13"/>
-			<rect v:rectContext="textBkgnd" x="23.1664" y="881.027" width="10.0352" height="9.59985" class="st15"/>
-			<text x="23.17" y="888.23" class="st32" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape91-287" v:mID="91" v:groupContext="shape" transform="translate(144.806,-197.256)">
+			<rect v:rectContext="textBkgnd" x="23.1664" y="881.027" width="10.0352" height="9.59985" class="st32"/>
+			<text x="23.17" y="888.23" class="st31" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
+		<g id="shape91-245" v:mID="91" v:groupContext="shape" transform="translate(144.806,-197.256)">
 			<title>Rectangle</title>
 			<desc>Tight cohesion</desc>
 			<v:userDefs>
@@ -755,7 +645,7 @@
 			<v:textRect cx="56.6929" cy="870.945" width="113.39" height="43.937"/>
 			<rect x="0" y="848.976" width="113.386" height="43.937" class="st1"/>
 			<text x="27.09" y="873.94" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Tight cohesion</text>		</g>
-		<g id="shape95-290" v:mID="95" v:groupContext="shape" transform="translate(314.646,-197.256)">
+		<g id="shape95-248" v:mID="95" v:groupContext="shape" transform="translate(314.646,-197.256)">
 			<title>Rectangle.95</title>
 			<desc>Loose coupling</desc>
 			<v:userDefs>
@@ -765,11 +655,11 @@
 			<v:textRect cx="56.6929" cy="870.945" width="113.39" height="43.937"/>
 			<rect x="0" y="848.976" width="113.386" height="43.937" class="st1"/>
 			<text x="26.46" y="873.94" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Loose coupling</text>		</g>
-		<g id="shape96-293" v:mID="96" v:groupContext="shape" v:layerMember="0" transform="translate(364.252,-306.142)">
+		<g id="shape96-251" v:mID="96" v:groupContext="shape" v:layerMember="0" transform="translate(364.252,-306.142)">
 			<title>Dynamic connector.96</title>
 			<path d="M7.09 892.91 L7.09 911.8 L7.09 950.26" class="st33"/>
 		</g>
-		<g id="shape97-299" v:mID="97" v:groupContext="shape" transform="translate(484.486,-197.256)">
+		<g id="shape97-257" v:mID="97" v:groupContext="shape" transform="translate(484.486,-197.256)">
 			<title>Rectangle.97</title>
 			<desc>Encapsulation</desc>
 			<v:userDefs>
@@ -779,11 +669,11 @@
 			<v:textRect cx="56.6929" cy="870.945" width="113.39" height="43.937"/>
 			<rect x="0" y="848.976" width="113.386" height="43.937" class="st1"/>
 			<text x="28.28" y="873.94" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Encapsulation</text>		</g>
-		<g id="shape98-302" v:mID="98" v:groupContext="shape" v:layerMember="0" transform="translate(371.339,-306.142)">
+		<g id="shape98-260" v:mID="98" v:groupContext="shape" v:layerMember="0" transform="translate(371.339,-306.142)">
 			<title>Dynamic connector.98</title>
 			<path d="M0 892.91 L0 911.8 L169.84 911.8 L169.84 950.26" class="st33"/>
 		</g>
-		<g id="shape92-307" v:mID="92" v:groupContext="shape" v:layerMember="0" transform="translate(371.339,-306.142)">
+		<g id="shape92-265" v:mID="92" v:groupContext="shape" v:layerMember="0" transform="translate(371.339,-306.142)">
 			<title>Dynamic connector.92</title>
 			<desc>How?</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -791,7 +681,7 @@
 			<path d="M0 892.91 L0 911.8 L-169.84 911.8 L-169.84 950.26" class="st33"/>
 			<rect v:rectContext="textBkgnd" x="-7.86165" y="896.018" width="21.3926" height="10.7998" class="st15"/>
 			<text x="-7.86" y="904.12" class="st16" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>How?</text>		</g>
-		<g id="group99-314" transform="translate(121.104,-28.3465)" v:mID="99" v:groupContext="group">
+		<g id="group99-272" transform="translate(121.104,-28.3465)" v:mID="99" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -805,7 +695,7 @@
 			</v:userDefs>
 			<title>Folded Corner.99</title>
 			<desc>The ‘strength’ of the relationships between the internals of ...</desc>
-			<g id="shape99-315" v:mID="99" v:groupContext="groupContent">
+			<g id="shape99-273" v:mID="99" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="80.3946" cy="830.427" width="160.79" height="124.972"/>
 				<path d="M0 892.91 L136.85 892.91 L160.79 881 L160.79 767.94 L0 767.94 L0 892.91 Z" class="st35"/>
@@ -814,7 +704,7 @@
 							class="st17">determine its single responsibility </tspan><tspan x="4" dy="1.2em" class="st17">‘</tspan>level’. If there is a weak level of <tspan
 							x="4" dy="1.2em" class="st17">cohesion it means that the module </tspan><tspan x="4" dy="1.2em"
 							class="st17">contains unrelated functionality and </tspan><tspan x="4" dy="1.2em" class="st17">thus has multiple reasons </tspan>to change.</text>			</g>
-			<g id="shape100-326" v:mID="100" v:groupContext="shape" transform="translate(136.854,1.13687E-13)">
+			<g id="shape100-284" v:mID="100" v:groupContext="shape" transform="translate(136.854,1.13687E-13)">
 				<title>Sheet.100</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -831,15 +721,15 @@
 				<path d="M0 892.91 L23.93 881 L14.43 873.82 L0 892.91 Z" class="st37"/>
 			</g>
 		</g>
-		<g id="shape101-330" v:mID="101" v:groupContext="shape" v:layerMember="0" transform="translate(194.412,-197.256)">
+		<g id="shape101-288" v:mID="101" v:groupContext="shape" v:layerMember="0" transform="translate(194.412,-197.256)">
 			<title>Dynamic connector.101</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="914.882" width="40" height="17.6036"/>
 			<path d="M7.09 892.91 L7.09 929.25" class="st33"/>
-			<rect v:rectContext="textBkgnd" x="2.06894" y="910.082" width="10.0352" height="9.59985" class="st15"/>
+			<rect v:rectContext="textBkgnd" x="2.06894" y="910.082" width="10.0352" height="9.59985" class="st32"/>
 			<text x="2.07" y="917.28" class="st38" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="group102-337" transform="translate(290.944,-28.3465)" v:mID="102" v:groupContext="group">
+		<g id="group102-295" transform="translate(290.944,-28.3465)" v:mID="102" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -853,7 +743,7 @@
 			</v:userDefs>
 			<title>Folded Corner.102</title>
 			<desc>The ‘weakness’ of relationships towards other modules determi...</desc>
-			<g id="shape102-338" v:mID="102" v:groupContext="groupContent">
+			<g id="shape102-296" v:mID="102" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="80.3946" cy="830.427" width="160.79" height="124.972"/>
 				<path d="M0 892.91 L136.85 892.91 L160.79 881 L160.79 767.94 L0 767.94 L0 892.91 Z" class="st35"/>
@@ -865,7 +755,7 @@
 							class="st17">simultaneously becomes higher. Two </tspan><tspan x="4" dy="1.2em" class="st17">modules changing simultaneously </tspan><tspan
 							x="4" dy="1.2em" class="st17">means both modules have not one </tspan><tspan x="4" dy="1.2em"
 							class="st17">reason to change, but multiple. </tspan> </text>			</g>
-			<g id="shape103-351" v:mID="103" v:groupContext="shape" transform="translate(136.854,1.13687E-13)">
+			<g id="shape103-309" v:mID="103" v:groupContext="shape" transform="translate(136.854,1.13687E-13)">
 				<title>Sheet.103</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -882,7 +772,7 @@
 				<path d="M0 892.91 L23.93 881 L14.43 873.82 L0 892.91 Z" class="st37"/>
 			</g>
 		</g>
-		<g id="shape104-354" v:mID="104" v:groupContext="shape" v:layerMember="0" transform="translate(364.252,-197.256)">
+		<g id="shape104-312" v:mID="104" v:groupContext="shape" v:layerMember="0" transform="translate(364.252,-197.256)">
 			<title>Dynamic connector.104</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -890,7 +780,7 @@
 			<path d="M7.09 892.91 L7.09 929.25" class="st33"/>
 			<rect v:rectContext="textBkgnd" x="2.06894" y="910.082" width="10.0352" height="9.59985" class="st15"/>
 			<text x="2.07" y="917.28" class="st38" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="group113-361" transform="translate(460.784,-28.3465)" v:mID="113" v:groupContext="group">
+		<g id="group113-319" transform="translate(460.784,-28.3465)" v:mID="113" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -904,7 +794,7 @@
 			</v:userDefs>
 			<title>Folded Corner.113</title>
 			<desc>A module is responsible for a specific task and the result of...</desc>
-			<g id="shape113-362" v:mID="113" v:groupContext="groupContent">
+			<g id="shape113-320" v:mID="113" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="80.3946" cy="830.427" width="160.79" height="124.972"/>
 				<path d="M0 892.91 L136.85 892.91 L160.79 881 L160.79 767.94 L0 767.94 L0 892.91 Z" class="st35"/>
@@ -915,7 +805,7 @@
 							class="st17">that the responsibility of its task </tspan><tspan x="4" dy="1.2em" class="st17">could shift to other modules. </tspan>‘Bad’ <tspan
 							x="4" dy="1.2em" class="st17">encapsulation can enlarge the risk of </tspan><tspan x="4" dy="1.2em"
 							class="st17">tight coupling.</tspan></text>			</g>
-			<g id="shape114-374" v:mID="114" v:groupContext="shape" transform="translate(136.854,1.13687E-13)">
+			<g id="shape114-332" v:mID="114" v:groupContext="shape" transform="translate(136.854,1.13687E-13)">
 				<title>Sheet.114</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -932,7 +822,7 @@
 				<path d="M0 892.91 L23.93 881 L14.43 873.82 L0 892.91 Z" class="st37"/>
 			</g>
 		</g>
-		<g id="shape115-377" v:mID="115" v:groupContext="shape" v:layerMember="0" transform="translate(534.092,-197.256)">
+		<g id="shape115-335" v:mID="115" v:groupContext="shape" v:layerMember="0" transform="translate(534.092,-197.256)">
 			<title>Dynamic connector.115</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -940,45 +830,45 @@
 			<path d="M7.09 892.91 L7.09 929.25" class="st33"/>
 			<rect v:rectContext="textBkgnd" x="2.06894" y="910.082" width="10.0352" height="9.59985" class="st15"/>
 			<text x="2.07" y="917.28" class="st38" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape116-384" v:mID="116" v:groupContext="shape" transform="translate(755.688,-417.402)">
+		<g id="shape116-342" v:mID="116" v:groupContext="shape" transform="translate(754.016,-417.402)">
 			<title>Rectangle.116</title>
 			<desc>Reduce recompilation time</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-			<v:textRect cx="62.4626" cy="870.945" width="124.93" height="43.937"/>
-			<rect x="0" y="848.976" width="124.925" height="43.937" class="st5"/>
-			<text x="7.46" y="861.98" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Reduce recompilation time</text>		</g>
-		<g id="shape117-387" v:mID="117" v:groupContext="shape" v:layerMember="0" transform="translate(711.496,-679.659)">
+			<v:textRect cx="63.2598" cy="870.945" width="126.52" height="43.937"/>
+			<rect x="0" y="848.976" width="126.52" height="43.937" class="st5"/>
+			<text x="8.26" y="861.98" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Reduce recompilation time</text>		</g>
+		<g id="shape117-345" v:mID="117" v:groupContext="shape" v:layerMember="0" transform="translate(710.686,-676.063)">
 			<title>Dynamic connector.117</title>
-			<path d="M0 892.91 L13.68 892.91 L13.68 1133.2 L36.59 1133.2" class="st9"/>
+			<path d="M0 892.91 L13.68 892.91 L13.68 1129.61 L35.73 1129.61" class="st9"/>
 		</g>
-		<g id="group118-392" transform="translate(936.904,-396.85)" v:mID="118" v:groupContext="group">
+		<g id="group118-350" transform="translate(936.904,-391.89)" v:mID="118" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
 				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
-				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.26152622479337):1"/>
-				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.7949060461433):32"/>
-				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.1831934912855):1"/>
-				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.18671060201452):1"/>
+				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.27691224108437):1"/>
+				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.73979594679145):32"/>
+				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.20538270005279):1"/>
+				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.18745595815547):1"/>
 			</v:userDefs>
 			<title>Folded Corner.118</title>
 			<desc>Module A contains two responsibilities, A1 and A2. Module B d...</desc>
-			<g id="shape118-393" v:mID="118" v:groupContext="groupContent">
+			<g id="shape118-351" v:mID="118" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-				<v:textRect cx="113.702" cy="850.394" width="227.41" height="85.0394"/>
-				<path d="M0 892.91 L214.21 892.91 L227.4 879.47 L227.4 807.87 L0 807.87 L0 892.91 Z" class="st19"/>
-				<text x="4" y="820.87" class="st20" v:langID="1033"><v:paragraph/><v:tabList/>Module A contains two responsibilities, A1 and A2. <tspan
+				<v:textRect cx="113.702" cy="845.433" width="227.41" height="94.9606"/>
+				<path d="M0 892.91 L212.62 892.91 L227.4 879.42 L227.4 797.95 L0 797.95 L0 892.91 Z" class="st19"/>
+				<text x="4" y="810.95" class="st20" v:langID="1033"><v:paragraph/><v:tabList/>Module A contains two responsibilities, A1 and A2. <tspan
 							x="4" dy="1.2em" class="st17">Module B depends on A1 and module C on A2. When </tspan><tspan x="4"
 							dy="1.2em" class="st17">A1 changes both B and C need to recompile. </tspan><tspan x="4" dy="1.2em"
 							class="st17">Separating the responsibilities of A into two separate </tspan><tspan x="4" dy="1.2em"
 							class="st17">modules will only make B recompile when A1 </tspan><tspan x="4" dy="1.2em" class="st17">changes and C when A2 changes. This will result in </tspan><tspan
 							x="4" dy="1.2em" class="st17">less recompilation time. </tspan> </text>			</g>
-			<g id="shape119-403" v:mID="119" v:groupContext="shape" transform="translate(213.963,1.13687E-13)">
+			<g id="shape119-361" v:mID="119" v:groupContext="shape" transform="translate(212.616,1.13687E-13)">
 				<title>Sheet.119</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -987,31 +877,21 @@
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT0(1):26"/>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(2.9717026014209):1"/>
-					<v:ud v:nameU="ControlY" v:prompt="" v:val="VT0(0.18316037096102):1"/>
-					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.1831934912855):1"/>
-					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.18671060201452):1"/>
+					<v:ud v:nameU="ControlY" v:prompt="" v:val="VT0(0.2045290798353):1"/>
+					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.20538270005279):1"/>
+					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.18745595815547):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ed7d31)"/>
 				</v:userDefs>
-				<path d="M0.25 892.91 L13.44 879.47 L0 879.73 L0.25 892.91 Z" class="st21"/>
+				<path d="M0 892.91 L14.79 879.42 L1.35 878.19 L0 892.91 Z" class="st21"/>
 			</g>
 		</g>
-		<g id="shape121-406" v:mID="121" v:groupContext="shape" v:layerMember="0" transform="translate(880.613,-432.283)">
+		<g id="shape121-364" v:mID="121" v:groupContext="shape" v:layerMember="0" transform="translate(880.535,-432.283)">
 			<title>Dynamic connector.121</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="28.1454" cy="885.827" width="40" height="17.6036"/>
-			<path d="M0 885.83 L48.69 885.83" class="st9"/>
-			<rect v:rectContext="textBkgnd" x="23.1277" y="881.027" width="10.0352" height="9.59985" class="st15"/>
-			<text x="23.13" y="888.23" class="st22" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape122-413" v:mID="122" v:groupContext="shape" transform="translate(755.688,-417.88)">
-			<title>Rectangle.122</title>
-			<desc>Time spent--</desc>
-			<v:userDefs>
-				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
-			</v:userDefs>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="42.5197" cy="881.096" width="85.04" height="23.6338"/>
-			<rect x="0" y="869.28" width="85.0394" height="23.6338" class="st18"/>
-			<text x="16.89" y="884.1" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Time spent--</text>		</g>
+			<v:textRect cx="28.1841" cy="885.827" width="40" height="17.6036"/>
+			<path d="M0 885.83 L48.77 885.83" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="23.1664" y="881.027" width="10.0352" height="9.59985" class="st15"/>
+			<text x="23.17" y="888.23" class="st22" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
 	</g>
 </svg>
