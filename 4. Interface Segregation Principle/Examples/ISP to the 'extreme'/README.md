@@ -30,7 +30,11 @@ The 'using' clients will look like so:
 
 ![alt text](UsingClients.png "ConcreteDatabase")
 
-ISP has been applied: none of our clients depedent up-on functions they do not use. What happens if we would 'over engineer' here? We decide to introduce extreme reusability in our interfaces, like so:
+ISP has been applied: none of our clients depedent up-on functions they do not use. 
+
+What happens if we would 'over engineer' here? 
+
+We decide to introduce extreme reusability in our interfaces, like so:
 
 ![alt text](SixInterfaces.png "SixInterfaces")
 
