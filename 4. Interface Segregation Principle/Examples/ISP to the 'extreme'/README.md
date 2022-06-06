@@ -38,7 +38,9 @@ We decide to introduce extreme reusability in our interfaces, like so:
 
 ![alt text](SixInterfaces.png "SixInterfaces")
 
-This does not change anything from the 'using' client perspective. It only adds extra flexibility in reusing the 'single function' interfaces in other composite interfaces. A first noticable disadvantage is that readability descreases, because the interface is more scattered. Is this the only disadvantage or is there more?
+This does not change anything from the 'using' client perspective. It only adds extra flexibility in reusing the 'single function' interfaces in other composite interfaces. A first noticable disadvantage is that readability descreases, because the interface is more scattered. 
+
+Is this the only disadvantage or is there more?
 
 Let's introduce a complete new database class that can only be read and sorted in ascending order:
 
@@ -50,7 +52,9 @@ This 'special' database will be used by a complete different client. We reused t
 
 We now adhere to ISP and have the 'extreme' reusability of these single function interfaces.
 
-What happens if we try to navigate and see which concrete implementation is actually behind the **Get** function of the interface? We will get the following options:
+What happens if we try to navigate and see which concrete implementation is actually behind the **Get** function of the interface? 
+
+We will get the following options:
 
 ![alt text](Search.png "Search")
 
