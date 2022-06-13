@@ -66,7 +66,7 @@ Not applying ISP to the extreme would have meant we had two high cohesive interf
  * A **SortingClient** that only uses the sort functions of the database class
  * A **AccessorClient** that only uses the accessor function of the database class
 
-However, these interfaces don't fit our new use-case: **SpecialDatabase**. What we instead could have done is just introduce a complete new interface:
+However, these interfaces don't fit our new use-case: **SpecialDatabase**. What we instead could have done is just introduce a complete new interface (or consider of not using an interface at all):
 
 ![alt text](SpecialDatabaseNewInterface.png "SpecialDatabaseNewInterface")
 
