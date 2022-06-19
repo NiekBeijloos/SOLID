@@ -46,7 +46,7 @@ As seen in this example, taking SRP to the 'extreme', will result in a decrease 
 
 ## Extra
 
-one of the most difficult aspects of the Single Responsibility principle is to find the optimum between 'extreme' and 'violation'. There is no 'black' or 'white' answer to that, because it depents. I ask my-self the following questions to come as close as possible to the Single Responsibility optimum:
+One of the most difficult aspects of the Single Responsibility principle is to find the optimum between 'extreme' and 'violation'. There is no 'black' or 'white' answer to that, because it depents. I ask my-self the following questions to come as close as possible to the Single Responsibility optimum:
 1) Are the functions of the class maintaining a single state?
 2) Does thight coupling arise when seperating the class in multiple responsibilities? 
 3) Do the 'using' clients 'almost' always need the group of public functions to influence the state of my class?
