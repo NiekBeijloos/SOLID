@@ -20,7 +20,7 @@ The client of the **Pump** class will look like so:
 
  What will happen if we 'over-engineer' here?
 
- We could have four seperate **Pump** responsibilities, namely:
+ We could have four separate **Pump** responsibilities, namely:
  
  1. **PumpStateValidator**, responsible for boundary checking of the state
  2. **PumpState**, responsible for maintaining the pump state
