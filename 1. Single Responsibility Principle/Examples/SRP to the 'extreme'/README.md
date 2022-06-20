@@ -6,7 +6,7 @@ The Single Responsibility Principle is a principle we should always comply to. H
 
 Let's analyze the following **Pump** class:
 
-<img src=Pump.png width=70% height=70%>
+<img src=Pump.png width=50% height=50%>
 
 The functions within the class have a 'high' level of cohesion. This statement is based on three arguments:
 
