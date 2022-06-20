@@ -35,7 +35,7 @@ The client of the **Pump** class will look like so:
 The above code complies to the SRP, even more then our first implementation. However, this implementation comes with a cost.
 
 The maintainability and reusability of our code is negatively impacted. Let's ellobrate on that statement: 
-1) Maintainability & Scalability: our code becomes more scattered. This will make it harder to comprehend and navigate through the code (e.g. how and where **PumpState** is used and updated). Negative impact on the understandability of the code will result in more time spent and an increase in bugs.  
+1) Maintainability & Scalability: our code becomes more scattered. This will make it harder to comprehend and navigate through the code, because each class becomes like a puzzle piece and we have to find them together and try to see the whole. E.g. it will be hard to see how and where **PumpState** is used and updated. Negative impact on the understandability of the code will result in more time spent and an increase in bugs.  
 2) Reusability: instantiating **PumpClient** will require us to create 3 dependencies:
 <img src=PumpClient3Dependencies.png width=20% height=30%>  
 This is time consuming for both production and test code, because each dependency must be created. You can imagine the depedency 'hell' on large scale. In addition, as mentioned in Maintainability & Scalability, the code will be harder to comprohend, this makes reusability harder and can result in wrong use.
