@@ -51,7 +51,7 @@ The calculator class will look like so:
 
 And the test cases:
 
-<img src=OCP_Testcases.png width=50% height=60%>
+<img src=OCP_testcases.png width=50% height=60%>
 
 Above tests pass. 
 
