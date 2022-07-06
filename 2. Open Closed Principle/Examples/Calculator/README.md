@@ -85,7 +85,7 @@ Let's say we have client 'A' using our initial calculator implementation:
 
 The customer asks use to extend the system with client 'B' that consumes the same calculator only with an additional Exponentiation operation. We can just introduce a new interface and add the operation to the existing implementation: 
 
-<img src=InbetweenNewOperation.png width=50% height=70%>
+<img src=InBetweenNewOperation.png width=50% height=70%>
 
 It is chosen to reconstructe a complete new interface **ICaculatorExponentation**, because in my opinion the added value of readability is more important here. 
 
