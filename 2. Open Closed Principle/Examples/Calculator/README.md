@@ -81,7 +81,7 @@ This solution ensures OCP on the functional level and still have the calculator 
 
 Let's say we have client 'A' using our initial calculator implementation:
 
-<img src=InbetweenInitialImpl.png width=40% height=60%>
+<img src=InBetweenInitialImpl.png width=40% height=60%>
 
 The customer asks use to extend the system with client 'B' that consumes the same calculator only with an additional Exponentiation operation. We can just introduce a new interface and add the operation to the existing implementation: 
 
