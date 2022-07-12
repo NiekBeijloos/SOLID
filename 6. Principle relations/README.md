@@ -13,11 +13,4 @@ The open closed principle is dependent on the Liskov Substitution, Depedency Inv
 
 Liskov Subsitution is another principle 'existing' in the practical sense. It explains use 'how' we should use inheritance in a way that we can ensure that all our sub-types can be used just like our base types. We apply this principle to prevent bugs/undefined behavior when extension is required and to prevent complexity in a system. The more exceptional cases we have of our base contract the more our cyclomatic complexity will grow. Inheritance is a 'resource' to achieve Open Closed and Liskov Substitution provides a way to apply this 'resource' in a correct way. This explains the relation between LSP and OCP.
 
-The Open Closed principle uses the Single Responsibility to simplify extension without modifying. 
-
-
-
-
-
-
-I would say OCP has the strongest relation towards Dependency Inversion, but the intent of both principles diverges a bit. The DIP is about change, OCP is about extension, which is a form of change. DIP is more the umbrella principle and the OCP resides under that umbrella to emphasize extension. DIP emphasizes the use of abstractions (i.e.: interfaces and abstract classes) and these abstractions provide an easy way to extend our system with new functionality, but also to exclude it. 
+The Open Closed principle uses the Single Responsibility to simplify extension without modifying. ...
