@@ -1,7 +1,7 @@
 # Relations between the SOLID principles
 
 ## Context
-It is interesting to observe the relations between the SOLID principles, because it could provide clearance about how the principles 'support' each other. I think there are two types of principles:
+It is interesting to observe the relations between the SOLID principles, because it could provide clearance about how the principles 'support' each other. I think there are two types of SOLID principles:
 1. Theoretical principle: elaborates more on the 'why', but less on the 'how' 
 2. Practical principle: elaborates more on the 'how', but less on the 'why'
 
