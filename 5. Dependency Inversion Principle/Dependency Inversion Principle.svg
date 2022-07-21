@@ -44,16 +44,16 @@
 		.st29 {fill:#61973d;font-family:Calibri;font-size:0.833336em}
 		.st30 {fill:url(#grad0-135);stroke:#61973d;stroke-width:0.75}
 		.st31 {fill:#61973d;font-family:Calibri;font-size:0.666664em}
-		.st32 {fill:url(#grad0-182);stroke:#668bb3;stroke-width:0.75}
+		.st32 {fill:url(#grad0-151);stroke:#668bb3;stroke-width:0.75}
 		.st33 {fill:#668bb3;font-family:Calibri;font-size:0.833336em}
-		.st34 {fill:url(#grad0-203);stroke:#668bb3;stroke-width:0.75}
-		.st35 {marker-end:url(#mrkr4-209);stroke:#759fcc;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st34 {fill:url(#grad0-172);stroke:#668bb3;stroke-width:0.75}
+		.st35 {marker-end:url(#mrkr4-178);stroke:#759fcc;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
 		.st36 {fill:#759fcc;fill-opacity:1;stroke:#759fcc;stroke-opacity:1;stroke-width:0.52631578947368}
 		.st37 {fill:#668bb3;font-family:Calibri;font-size:0.666664em}
 		.st38 {fill:#d06d29;stroke:#ae5a21;stroke-width:0.75}
-		.st39 {fill:url(#grad0-230);stroke:#d06d29;stroke-width:0.75}
+		.st39 {fill:url(#grad0-199);stroke:#d06d29;stroke-width:0.75}
 		.st40 {fill:#d06d29;font-family:Calibri;font-size:0.833336em}
-		.st41 {fill:url(#grad0-239);stroke:#d06d29;stroke-width:0.75}
+		.st41 {fill:url(#grad0-208);stroke:#d06d29;stroke-width:0.75}
 		.st42 {fill:#d06d29;font-family:Calibri;font-size:0.666664em}
 		.st43 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
@@ -90,22 +90,22 @@
 			<stop offset="0.24" stop-color="#d9e3d5" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#d9e3d5" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-182" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-151" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#ebeff5" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#f5f7fa" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#feffff" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-203" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-172" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#c8d3e6" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#d1dceb" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#d1dceb" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-230" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-199" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#fbece7" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#fdf5f3" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#feffff" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-239" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-208" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#f7c6b9" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#f4d1c8" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#d76213" stop-opacity="1"/>
@@ -131,7 +131,7 @@
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend4" transform="scale(-1.9,-1.9) "/>
 		</marker>
-		<marker id="mrkr4-209" class="st36" v:arrowType="4" v:arrowSize="1" v:setback="3.8" refX="-3.8" orient="auto"
+		<marker id="mrkr4-178" class="st36" v:arrowType="4" v:arrowSize="1" v:setback="3.8" refX="-3.8" orient="auto"
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend4" transform="scale(-1.9,-1.9) "/>
 		</marker>
@@ -399,72 +399,7 @@
 			<path d="M0 741.26 L63.27 741.26" class="st25"/>
 			<rect v:rectContext="textBkgnd" x="30.4154" y="736.46" width="10.0352" height="9.59985" class="st15"/>
 			<text x="30.42" y="743.66" class="st31" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape34-143" v:mID="34" v:groupContext="shape" transform="translate(1112.6,-128.701)">
-			<title>Rectangle.34</title>
-			<desc>Overcome re-testing and fixing test cases</desc>
-			<v:userDefs>
-				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
-			</v:userDefs>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-			<v:textRect cx="53.1496" cy="726.378" width="106.3" height="43.937"/>
-			<rect x="0" y="704.409" width="106.299" height="43.937" class="st7"/>
-			<text x="11.3" y="717.41" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Overcome re-testing <tspan
-						x="12.44" dy="1.2em" class="st9">and fixing test cases</tspan></text>		</g>
-		<g id="shape35-147" v:mID="35" v:groupContext="shape" v:layerMember="0" transform="translate(1062.99,-260.787)">
-			<title>Dynamic connector.35</title>
-			<path d="M0 748.35 L13.68 748.35 L13.68 858.46 L42.01 858.46" class="st10"/>
-		</g>
-		<g id="group37-152" transform="translate(1289.76,-98.3071)" v:mID="37" v:groupContext="group">
-			<v:userDefs>
-				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
-				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
-				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
-				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
-				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
-				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.088195650171999):1"/>
-				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.49839227392117):32"/>
-				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.092252160854085):1"/>
-				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.050205173354715):1"/>
-			</v:userDefs>
-			<title>Folded Corner.37</title>
-			<desc>The test cases of a ‘using client’ that is dependent on the c...</desc>
-			<g id="shape37-153" v:mID="37" v:groupContext="groupContent">
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-				<v:textRect cx="106.299" cy="695.984" width="212.6" height="104.724"/>
-				<path d="M0 748.35 L205.96 748.35 L212.6 744.73 L212.6 643.62 L0 643.62 L0 748.35 Z" class="st12"/>
-				<text x="4" y="656.62" class="st13" v:langID="1033"><v:paragraph/><v:tabList/>The test cases of a ‘using client’ that is dependent <tspan
-							x="4" dy="1.2em" class="st9">on the concrete implementation of its </tspan><tspan x="4" dy="1.2em"
-							class="st9">dependency need modification and re</tspan>-testing <tspan x="4" dy="1.2em" class="st9">when a change to the dependency is introduced. </tspan><tspan
-							x="4" dy="1.2em" class="st9">In contrast, when adhering to DIP, the test suite </tspan><tspan x="4"
-							dy="1.2em" class="st9">of the </tspan>‘using client’ is not affected in case the <tspan x="4"
-							dy="1.2em" class="st9">concrete implementation changes (and the </tspan><tspan x="4" dy="1.2em"
-							class="st9">interface remains the same).</tspan></text>			</g>
-			<g id="shape38-164" v:mID="38" v:groupContext="shape" transform="translate(205.956,0)">
-				<title>Sheet.38</title>
-				<v:userDefs>
-					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
-					<v:ud v:nameU="ControlY" v:prompt="" v:val="VT0(0.23622047244094):24"/>
-					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
-					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
-					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT0(1):26"/>
-					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(2.9105968017118):1"/>
-					<v:ud v:nameU="ControlY" v:prompt="" v:val="VT0(0.077466844445535):1"/>
-					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.092252160854085):1"/>
-					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.050205173354715):1"/>
-					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#4672c4)"/>
-				</v:userDefs>
-				<path d="M0 748.35 L6.64 744.73 L3.61 742.77 L0 748.35 Z" class="st14"/>
-			</g>
-		</g>
-		<g id="shape39-167" v:mID="39" v:groupContext="shape" v:layerMember="0" transform="translate(1218.9,-143.583)">
-			<title>Dynamic connector.39</title>
-			<desc>I.e.</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="35.4331" cy="741.26" width="40" height="17.6036"/>
-			<path d="M0 741.26 L63.27 741.26" class="st10"/>
-			<rect v:rectContext="textBkgnd" x="30.4154" y="736.46" width="10.0352" height="9.59985" class="st15"/>
-			<text x="30.42" y="743.66" class="st16" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape41-174" v:mID="41" v:groupContext="shape" transform="translate(708.661,-443.622)">
+		<g id="shape41-143" v:mID="41" v:groupContext="shape" transform="translate(708.661,-443.622)">
 			<title>Rectangle.136</title>
 			<desc>Scalability and reusability is required</desc>
 			<v:userDefs>
@@ -475,7 +410,7 @@
 			<rect x="0" y="704.409" width="113.386" height="43.937" class="st3"/>
 			<text x="5.21" y="723.38" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Scalability and reusability <tspan
 						x="34.97" dy="1.2em" class="st9">is required</tspan></text>		</g>
-		<g id="group42-178" transform="translate(642.805,-528.661)" v:mID="42" v:groupContext="group">
+		<g id="group42-147" transform="translate(642.805,-528.661)" v:mID="42" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -489,13 +424,13 @@
 			</v:userDefs>
 			<title>Folded Corner.102</title>
 			<desc>Applying DIP means applying abstractions. Abstractions create...</desc>
-			<g id="shape42-179" v:mID="42" v:groupContext="groupContent">
+			<g id="shape42-148" v:mID="42" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="122.549" cy="641.339" width="245.1" height="214.016"/>
 				<path d="M0 748.35 L231.51 748.35 L245.1 733.45 L245.1 534.33 L0 534.33 L0 748.35 Z" class="st32"/>
 				<text x="4" y="547.33" class="st33" v:langID="1033"><v:paragraph/><v:tabList/>Applying DIP means applying abstractions. Abstractions <tspan
 							x="4" dy="1.2em" class="st9">create indirections and indirections create complexity. </tspan><tspan
-							x="4" dy="1.2em" class="st9">Indirections makes it harder to navigate and debug code. </tspan><tspan
+							x="4" dy="1.2em" class="st9">Indirections make it harder to navigate and debug code. </tspan><tspan
 							x="4" dy="1.2em" class="st9">On top of that, DIP heavily leans on dependency injection. </tspan><tspan
 							x="4" dy="1.2em" class="st9">This means the interface of our module increases in </tspan><tspan x="4"
 							dy="1.2em" class="st9">complexity in </tspan>case its dependencies are injected. Applying <tspan x="4"
@@ -505,12 +440,12 @@
 							dy="1.2em" class="st9">testing frameworks enforce us to use abstractions to be </tspan><tspan x="4"
 							dy="1.2em" class="st9">able to mock the implementation accordingly. However, </tspan><tspan x="4"
 							dy="1.2em" class="st9">there are other options to test without having to use DIP. </tspan><tspan x="4"
-							dy="1.2em" class="st9">For example, when testing a module that has a private </tspan><tspan x="4"
-							dy="1.2em" class="st9">dependency or injects the concrete type. We first unit </tspan><tspan x="4"
-							dy="1.2em" class="st9">test the dependency thoroughly, so we are sure that it </tspan><tspan x="4"
-							dy="1.2em" class="st9">works accordingly. After that we test the module with </tspan><tspan x="4"
-							dy="1.2em" class="st9">integration tests. </tspan> </text>			</g>
-			<g id="shape43-200" v:mID="43" v:groupContext="shape" transform="translate(230.266,0)">
+							dy="1.2em" class="st9">Test example: we have to test a module that has a private </tspan><tspan x="4"
+							dy="1.2em" class="st9">dependency or injects a concrete type. We first unit test </tspan><tspan x="4"
+							dy="1.2em" class="st9">the dependency thoroughly, so we are sure that it works </tspan><tspan x="4"
+							dy="1.2em" class="st9">accordingly. After that we test the module with </tspan><tspan x="4" dy="1.2em"
+							class="st9">integration tests. </tspan> </text>			</g>
+			<g id="shape43-169" v:mID="43" v:groupContext="shape" transform="translate(230.266,0)">
 				<title>Sheet.43</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -527,7 +462,7 @@
 				<path d="M1.24 748.35 L14.83 733.45 L0 734.81 L1.24 748.35 Z" class="st34"/>
 			</g>
 		</g>
-		<g id="shape44-204" v:mID="44" v:groupContext="shape" v:layerMember="0" transform="translate(758.268,-402.52)">
+		<g id="shape44-173" v:mID="44" v:groupContext="shape" v:layerMember="0" transform="translate(758.268,-402.52)">
 			<title>Dynamic connector.44</title>
 			<desc>When?</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -535,7 +470,7 @@
 			<path d="M7.09 748.35 L7.09 714.84" class="st35"/>
 			<rect v:rectContext="textBkgnd" x="-6.17169" y="734.145" width="26.5166" height="10.7998" class="st15"/>
 			<text x="-6.17" y="742.24" class="st27" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>When?</text>		</g>
-		<g id="shape45-212" v:mID="45" v:groupContext="shape" v:layerMember="0" transform="translate(758.268,-487.559)">
+		<g id="shape45-181" v:mID="45" v:groupContext="shape" v:layerMember="0" transform="translate(758.268,-487.559)">
 			<title>Dynamic connector.45</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -543,7 +478,7 @@
 			<path d="M7.09 748.35 L7.09 714.84" class="st35"/>
 			<rect v:rectContext="textBkgnd" x="2.06894" y="722.996" width="10.0352" height="9.59985" class="st15"/>
 			<text x="2.07" y="730.2" class="st37" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape48-219" v:mID="48" v:groupContext="shape" transform="translate(276.39,-338.031)">
+		<g id="shape48-188" v:mID="48" v:groupContext="shape" transform="translate(276.39,-338.031)">
 			<title>Rectangle.60</title>
 			<desc>Increase in indirections of code</desc>
 			<v:userDefs>
@@ -554,7 +489,7 @@
 			<rect x="0" y="704.409" width="124.925" height="43.937" class="st38"/>
 			<text x="10.13" y="717.41" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Increase in indirections of <tspan
 						x="52.6" dy="1.2em" class="st9">code</tspan></text>		</g>
-		<g id="shape49-223" v:mID="49" v:groupContext="shape" transform="translate(452.238,-338.031)">
+		<g id="shape49-192" v:mID="49" v:groupContext="shape" transform="translate(452.238,-338.031)">
 			<title>Rectangle.61</title>
 			<desc>Maintainability</desc>
 			<v:userDefs>
@@ -564,7 +499,7 @@
 			<v:textRect cx="42.5197" cy="726.378" width="85.04" height="43.937"/>
 			<rect x="0" y="704.409" width="85.0394" height="43.937" class="st38"/>
 			<text x="11.83" y="729.38" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Maintainability</text>		</g>
-		<g id="group50-226" transform="translate(18,-320.138)" v:mID="50" v:groupContext="group">
+		<g id="group50-195" transform="translate(18,-320.138)" v:mID="50" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -578,7 +513,7 @@
 			</v:userDefs>
 			<title>Folded Corner.66</title>
 			<desc>Creating abstractions for each module, to adhere to DIP, will...</desc>
-			<g id="shape50-227" v:mID="50" v:groupContext="groupContent">
+			<g id="shape50-196" v:mID="50" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="106.299" cy="708.484" width="212.6" height="79.7244"/>
 				<path d="M0 748.35 L203.63 748.35 L212.6 730.94 L212.6 668.62 L0 668.62 L0 748.35 Z" class="st39"/>
@@ -586,7 +521,7 @@
 							x="4" dy="1.2em" class="st9">to DIP, will increase the indirections in a software </tspan><tspan x="4"
 							dy="1.2em" class="st9">system. Indirections make software complex. </tspan><tspan x="4" dy="1.2em"
 							class="st9">Complexity results in more time spent, degrades </tspan><tspan x="4" dy="1.2em" class="st9">design and introduces bugs.  </tspan>  </text>			</g>
-			<g id="shape51-236" v:mID="51" v:groupContext="shape" transform="translate(198.425,0)">
+			<g id="shape51-205" v:mID="51" v:groupContext="shape" transform="translate(198.425,0)">
 				<title>Sheet.51</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -603,7 +538,7 @@
 				<path d="M5.21 748.35 L14.17 730.94 L0 741.05 L5.21 748.35 Z" class="st41"/>
 			</g>
 		</g>
-		<g id="shape52-240" v:mID="52" v:groupContext="shape" v:layerMember="0" transform="translate(276.39,-352.913)">
+		<g id="shape52-209" v:mID="52" v:groupContext="shape" v:layerMember="0" transform="translate(276.39,-352.913)">
 			<title>Dynamic connector.68</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -611,11 +546,11 @@
 			<path d="M0 741.26 L-38.19 741.26" class="st1"/>
 			<rect v:rectContext="textBkgnd" x="-27.9133" y="736.46" width="10.0352" height="9.59985" class="st15"/>
 			<text x="-27.91" y="743.66" class="st42" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape56-247" v:mID="56" v:groupContext="shape" v:layerMember="0" transform="translate(452.238,-352.913)">
+		<g id="shape56-216" v:mID="56" v:groupContext="shape" v:layerMember="0" transform="translate(452.238,-352.913)">
 			<title>Dynamic connector.56</title>
 			<path d="M0 741.26 L-43.32 741.26" class="st1"/>
 		</g>
-		<g id="shape57-252" v:mID="57" v:groupContext="shape" transform="translate(543.118,-227.075)">
+		<g id="shape57-221" v:mID="57" v:groupContext="shape" transform="translate(566.929,-204.398)">
 			<title>Rectangle.57</title>
 			<desc>Abstractions</desc>
 			<v:userDefs>
@@ -625,11 +560,11 @@
 			<v:textRect cx="56.6929" cy="726.378" width="113.39" height="43.937"/>
 			<rect x="0" y="704.409" width="113.386" height="43.937" class="st3"/>
 			<text x="31.25" y="729.38" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Abstractions</text>		</g>
-		<g id="shape58-255" v:mID="58" v:groupContext="shape" v:layerMember="0" transform="translate(765.354,-317.48)">
+		<g id="shape58-224" v:mID="58" v:groupContext="shape" v:layerMember="0" transform="translate(765.354,-317.48)">
 			<title>Dynamic connector.58</title>
-			<path d="M0 748.35 L0 767.6 L-165.54 767.6 L-165.54 787.21" class="st35"/>
+			<path d="M0 748.35 L0 767.6 L-141.73 767.6 L-141.73 809.89" class="st35"/>
 		</g>
-		<g id="shape59-260" v:mID="59" v:groupContext="shape" transform="translate(708.661,-227.075)">
+		<g id="shape59-229" v:mID="59" v:groupContext="shape" transform="translate(708.661,-204.398)">
 			<title>Rectangle</title>
 			<desc>Dependency injection</desc>
 			<v:userDefs>
@@ -639,38 +574,30 @@
 			<v:textRect cx="56.6929" cy="726.378" width="113.39" height="43.937"/>
 			<rect x="0" y="704.409" width="113.386" height="43.937" class="st3"/>
 			<text x="12.48" y="729.38" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Dependency injection</text>		</g>
-		<g id="shape60-263" v:mID="60" v:groupContext="shape" v:layerMember="0" transform="translate(758.268,-317.48)">
-			<title>Dynamic connector.60</title>
-			<desc>How?</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="7.08662" cy="757.148" width="45" height="18.8036"/>
-			<path d="M7.09 748.35 L7.09 787.21" class="st35"/>
-			<rect v:rectContext="textBkgnd" x="-3.60967" y="751.748" width="21.3926" height="10.7998" class="st15"/>
-			<text x="-3.61" y="759.85" class="st27" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>How?</text>		</g>
-		<g id="group63-270" transform="translate(524.409,-88.0197)" v:mID="63" v:groupContext="group">
+		<g id="group63-232" transform="translate(561.159,-62.3622)" v:mID="63" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
 				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
-				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.23678914778833):1"/>
-				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.5501417144115):32"/>
-				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.22645897754409):1"/>
-				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.138887339573):1"/>
+				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.26155970844101):1"/>
+				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.40288972536003):32"/>
+				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.33355542897734):1"/>
+				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.14216254818036):1"/>
 			</v:userDefs>
 			<title>Folded Corner.125</title>
 			<desc>An abstraction is a ‘contract’ that cannot be instantiated by...</desc>
-			<g id="shape63-271" v:mID="63" v:groupContext="groupContent">
+			<g id="shape63-233" v:mID="63" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-				<v:textRect cx="75.4016" cy="700.787" width="150.81" height="95.1181"/>
-				<path d="M0 748.35 L134.5 748.35 L150.8 738.35 L150.8 653.23 L0 653.23 L0 748.35 Z" class="st32"/>
-				<text x="4" y="666.23" class="st33" v:langID="1033"><v:paragraph/><v:tabList/>An abstraction is a ‘contract’ that <tspan
-							x="4" dy="1.2em" class="st9">cannot be instantiated by other </tspan><tspan x="4" dy="1.2em"
-							class="st9">modules. An abstraction can be </tspan><tspan x="4" dy="1.2em" class="st9">the language definition of an </tspan><tspan
-							x="4" dy="1.2em" class="st9">interface or an abstract class. </tspan><tspan x="4" dy="1.2em"
-							class="st9">Abstractions are the assets in </tspan><tspan x="4" dy="1.2em" class="st9">accomplishing DIP.</tspan></text>			</g>
-			<g id="shape64-281" v:mID="64" v:groupContext="shape" transform="translate(134.498,0)">
+				<v:textRect cx="62.4626" cy="691.654" width="124.93" height="113.386"/>
+				<path d="M0 748.35 L100.91 748.35 L124.93 738.11 L124.93 634.96 L0 634.96 L0 748.35 Z" class="st32"/>
+				<text x="4" y="647.96" class="st33" v:langID="1033"><v:paragraph/><v:tabList/>An abstraction is a ‘contract’ <tspan
+							x="4" dy="1.2em" class="st9">that cannot be instantiated </tspan><tspan x="4" dy="1.2em" class="st9">by other modules. An </tspan><tspan
+							x="4" dy="1.2em" class="st9">abstraction can be the </tspan><tspan x="4" dy="1.2em" class="st9">language definition of an </tspan><tspan
+							x="4" dy="1.2em" class="st9">interface or an abstract </tspan><tspan x="4" dy="1.2em" class="st9">class. Abstraction is one of </tspan><tspan
+							x="4" dy="1.2em" class="st9">the necessities to </tspan><tspan x="4" dy="1.2em" class="st9">accomplish DIP.</tspan></text>			</g>
+			<g id="shape64-245" v:mID="64" v:groupContext="shape" transform="translate(100.909,0)">
 				<title>Sheet.64</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -678,47 +605,47 @@
 					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT0(1):26"/>
-					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(1.9706928521933):1"/>
-					<v:ud v:nameU="ControlY" v:prompt="" v:val="VT0(0.20185101350024):1"/>
-					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.22645897754409):1"/>
-					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.138887339573):1"/>
+					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(1.6325202238492):1"/>
+					<v:ud v:nameU="ControlY" v:prompt="" v:val="VT0(0.24061710329275):1"/>
+					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.33355542897734):1"/>
+					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.14216254818036):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#759fcc)"/>
 				</v:userDefs>
-				<path d="M0 748.35 L16.31 738.35 L7.39 733.81 L0 748.35 Z" class="st34"/>
+				<path d="M0 748.35 L24.02 738.11 L16.63 731.02 L0 748.35 Z" class="st34"/>
 			</g>
 		</g>
-		<g id="shape65-284" v:mID="65" v:groupContext="shape" v:layerMember="0" transform="translate(592.724,-227.075)">
+		<g id="shape65-248" v:mID="65" v:groupContext="shape" v:layerMember="0" transform="translate(616.535,-204.398)">
 			<title>Dynamic connector.65</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="7.08661" cy="770.315" width="40" height="17.6036"/>
-			<path d="M7.09 748.35 L7.09 784.68" class="st35"/>
-			<rect v:rectContext="textBkgnd" x="2.06894" y="765.515" width="10.0352" height="9.59985" class="st15"/>
-			<text x="2.07" y="772.72" class="st37" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="group67-291" transform="translate(684.96,-88.0197)" v:mID="67" v:groupContext="group">
+			<v:textRect cx="7.08661" cy="762.671" width="40" height="17.6036"/>
+			<path d="M7.09 748.35 L7.09 769.4" class="st35"/>
+			<rect v:rectContext="textBkgnd" x="2.06894" y="757.872" width="10.0352" height="9.59985" class="st15"/>
+			<text x="2.07" y="765.07" class="st37" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
+		<g id="group67-255" transform="translate(773.758,-62.3622)" v:mID="67" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
 				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
-				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.24117616545112):1"/>
-				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.57912055076417):32"/>
-				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.22033748413652):1"/>
-				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.1440813741112):1"/>
+				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.26155970844101):1"/>
+				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.40288972536003):32"/>
+				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.33355542897734):1"/>
+				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.14216254818036):1"/>
 			</v:userDefs>
 			<title>Folded Corner.67</title>
 			<desc>Dependency injection (=DI) together with inheritance are the ...</desc>
-			<g id="shape67-292" v:mID="67" v:groupContext="groupContent">
+			<g id="shape67-256" v:mID="67" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-				<v:textRect cx="80.3946" cy="700.787" width="160.79" height="95.1181"/>
-				<path d="M0 748.35 L144.92 748.35 L160.79 737.97 L160.79 653.23 L0 653.23 L0 748.35 Z" class="st32"/>
-				<text x="4" y="666.23" class="st33" v:langID="1033"><v:paragraph/><v:tabList/>Dependency injection (=DI) together <tspan
-							x="4" dy="1.2em" class="st9">with inheritance are the </tspan>‘wiring’ of <tspan x="4" dy="1.2em"
-							class="st9">the DIP principle. DI &#38; inheritance </tspan><tspan x="4" dy="1.2em" class="st9">ensure that we have the abstractions </tspan><tspan
-							x="4" dy="1.2em" class="st9">(=assets) </tspan>‘bounded’ to our high and <tspan x="4" dy="1.2em"
-							class="st9">low</tspan>-level modules.</text>			</g>
-			<g id="shape68-301" v:mID="68" v:groupContext="shape" transform="translate(144.925,0)">
+				<v:textRect cx="62.4626" cy="691.654" width="124.93" height="113.386"/>
+				<path d="M0 748.35 L100.91 748.35 L124.93 738.11 L124.93 634.96 L0 634.96 L0 748.35 Z" class="st32"/>
+				<text x="4" y="647.96" class="st33" v:langID="1033"><v:paragraph/><v:tabList/>Dependency injection (=DI) <tspan
+							x="4" dy="1.2em" class="st9">together with inheritance </tspan><tspan x="4" dy="1.2em" class="st9">are the </tspan>‘wiring’ of the DIP <tspan
+							x="4" dy="1.2em" class="st9">principle. DI &#38; inheritance </tspan><tspan x="4" dy="1.2em"
+							class="st9">ensure that we have the </tspan><tspan x="4" dy="1.2em" class="st9">abstractions </tspan>‘bounded’ to <tspan
+							x="4" dy="1.2em" class="st9">our high and low</tspan>-level <tspan x="4" dy="1.2em" class="st9">modules.</tspan></text>			</g>
+			<g id="shape68-267" v:mID="68" v:groupContext="shape" transform="translate(100.909,0)">
 				<title>Sheet.68</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -726,24 +653,16 @@
 					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT0(1):26"/>
-					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(2.1011897813731):1"/>
-					<v:ud v:nameU="ControlY" v:prompt="" v:val="VT0(0.20185101350024):1"/>
-					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.22033748413652):1"/>
-					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.1440813741112):1"/>
+					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(1.6325202238492):1"/>
+					<v:ud v:nameU="ControlY" v:prompt="" v:val="VT0(0.24061710329275):1"/>
+					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.33355542897734):1"/>
+					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.14216254818036):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#759fcc)"/>
 				</v:userDefs>
-				<path d="M0 748.35 L15.86 737.97 L6.36 733.81 L0 748.35 Z" class="st34"/>
+				<path d="M0 748.35 L24.02 738.11 L16.63 731.02 L0 748.35 Z" class="st34"/>
 			</g>
 		</g>
-		<g id="shape69-304" v:mID="69" v:groupContext="shape" v:layerMember="0" transform="translate(758.268,-227.075)">
-			<title>Dynamic connector.69</title>
-			<desc>I.e.</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="7.08661" cy="770.315" width="40" height="17.6036"/>
-			<path d="M7.09 748.35 L7.09 784.68" class="st35"/>
-			<rect v:rectContext="textBkgnd" x="2.06894" y="765.515" width="10.0352" height="9.59985" class="st15"/>
-			<text x="2.07" y="772.72" class="st37" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape74-311" v:mID="74" v:groupContext="shape" v:layerMember="0" transform="translate(637.795,-352.913)">
+		<g id="shape74-270" v:mID="74" v:groupContext="shape" v:layerMember="0" transform="translate(637.795,-352.913)">
 			<title>Dynamic connector.74</title>
 			<desc>Why not?</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -751,7 +670,7 @@
 			<path d="M0 741.26 L-92.92 741.26" class="st1"/>
 			<rect v:rectContext="textBkgnd" x="-51.6738" y="735.86" width="36.2417" height="10.7998" class="st15"/>
 			<text x="-51.67" y="743.96" class="st27" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why not?</text>		</g>
-		<g id="shape76-318" v:mID="76" v:groupContext="shape" transform="translate(977.953,-428.519)">
+		<g id="shape76-277" v:mID="76" v:groupContext="shape" transform="translate(977.953,-428.519)">
 			<title>Rectangle.21</title>
 			<desc>Maintainability</desc>
 			<v:userDefs>
@@ -761,7 +680,7 @@
 			<v:textRect cx="42.5197" cy="726.378" width="85.04" height="43.937"/>
 			<rect x="0" y="704.409" width="85.0394" height="43.937" class="st38"/>
 			<text x="11.83" y="729.38" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Maintainability</text>		</g>
-		<g id="shape77-321" v:mID="77" v:groupContext="shape" transform="translate(1112.6,-428.519)">
+		<g id="shape77-280" v:mID="77" v:groupContext="shape" transform="translate(1112.6,-428.519)">
 			<title>Rectangle.25</title>
 			<desc>Reduce recompilation time</desc>
 			<v:userDefs>
@@ -772,7 +691,7 @@
 			<rect x="0" y="704.409" width="106.299" height="43.937" class="st38"/>
 			<text x="8.58" y="717.41" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Reduce recompilation <tspan
 						x="43.85" dy="1.2em" class="st9">time</tspan></text>		</g>
-		<g id="group78-325" transform="translate(1289.76,-413.415)" v:mID="78" v:groupContext="group">
+		<g id="group78-284" transform="translate(1289.76,-413.415)" v:mID="78" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -786,16 +705,15 @@
 			</v:userDefs>
 			<title>Folded Corner.28</title>
 			<desc>When adhering to DIP the high-level modules are dependent on ...</desc>
-			<g id="shape78-326" v:mID="78" v:groupContext="groupContent">
+			<g id="shape78-285" v:mID="78" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="106.299" cy="711.275" width="212.6" height="74.1437"/>
 				<path d="M0 748.35 L203.89 748.35 L212.6 730.16 L212.6 674.2 L0 674.2 L0 748.35 Z" class="st39"/>
 				<text x="4" y="687.2" class="st40" v:langID="1033"><v:paragraph/><v:tabList/>When adhering to DIP the high-level modules are <tspan
-							x="4" dy="1.2em" class="st9">dependent on abstracts. This results in no re</tspan>-<tspan x="4"
+							x="4" dy="1.2em" class="st9">dependent on abstractions. This results in no re</tspan>-<tspan x="4"
 							dy="1.2em" class="st9">compilation of the high</tspan>-level modules incase the <tspan x="4" dy="1.2em"
-							class="st9">implementation behind the abstraction changes. </tspan><tspan x="4" dy="1.2em" class="st9">This ensures less time during recompilation, but </tspan><tspan
-							x="4" dy="1.2em" class="st9">also flexibility during runtime. </tspan> </text>			</g>
-			<g id="shape79-335" v:mID="79" v:groupContext="shape" transform="translate(198.425,0)">
+							class="st9">implementation behind the abstraction changes. </tspan><tspan x="4" dy="1.2em" class="st9">This ensures less time during recompilation.</tspan></text>			</g>
+			<g id="shape79-293" v:mID="79" v:groupContext="shape" transform="translate(198.425,0)">
 				<title>Sheet.79</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -812,11 +730,11 @@
 				<path d="M5.46 748.35 L14.17 730.16 L0 741.56 L5.46 748.35 Z" class="st41"/>
 			</g>
 		</g>
-		<g id="shape80-338" v:mID="80" v:groupContext="shape" v:layerMember="0" transform="translate(1062.99,-443.401)">
+		<g id="shape80-296" v:mID="80" v:groupContext="shape" v:layerMember="0" transform="translate(1062.99,-443.401)">
 			<title>Dynamic connector.80</title>
 			<path d="M0 741.26 L42.01 741.26" class="st1"/>
 		</g>
-		<g id="shape82-343" v:mID="82" v:groupContext="shape" v:layerMember="0" transform="translate(1218.9,-443.401)">
+		<g id="shape82-301" v:mID="82" v:groupContext="shape" v:layerMember="0" transform="translate(1218.9,-443.401)">
 			<title>Dynamic connector.82</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -824,5 +742,103 @@
 			<path d="M0 741.26 L63.27 741.26" class="st1"/>
 			<rect v:rectContext="textBkgnd" x="30.4154" y="736.46" width="10.0352" height="9.59985" class="st15"/>
 			<text x="30.42" y="743.66" class="st42" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
+		<g id="shape83-308" v:mID="83" v:groupContext="shape" transform="translate(1112.6,-125.433)">
+			<title>Rectangle.34</title>
+			<desc>Overcome re-testing and fixing test cases</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="53.1496" cy="726.378" width="106.3" height="43.937"/>
+			<rect x="0" y="704.409" width="106.299" height="43.937" class="st7"/>
+			<text x="11.3" y="717.41" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Overcome re-testing <tspan
+						x="12.44" dy="1.2em" class="st9">and fixing test cases</tspan></text>		</g>
+		<g id="group84-312" transform="translate(1289.76,-95.0394)" v:mID="84" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
+				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.088195650171999):1"/>
+				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.49839227392117):32"/>
+				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.092252160854085):1"/>
+				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.050205173354715):1"/>
+			</v:userDefs>
+			<title>Folded Corner.37</title>
+			<desc>The test cases of a ‘using client’ that is dependent on the c...</desc>
+			<g id="shape84-313" v:mID="84" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="106.299" cy="695.984" width="212.6" height="104.724"/>
+				<path d="M0 748.35 L205.96 748.35 L212.6 744.73 L212.6 643.62 L0 643.62 L0 748.35 Z" class="st12"/>
+				<text x="4" y="656.62" class="st13" v:langID="1033"><v:paragraph/><v:tabList/>The test cases of a ‘using client’ that is dependent <tspan
+							x="4" dy="1.2em" class="st9">on the concrete implementation of its </tspan><tspan x="4" dy="1.2em"
+							class="st9">dependency need modification and re</tspan>-testing <tspan x="4" dy="1.2em" class="st9">when a dependency </tspan>‘swap’ is introduced. In <tspan
+							x="4" dy="1.2em" class="st9">contrast, when adhering to DIP, the test suite of </tspan><tspan x="4"
+							dy="1.2em" class="st9">the </tspan>‘using client’ is not affected in case the <tspan x="4" dy="1.2em"
+							class="st9">concrete implementation </tspan>‘swaps’ and the <tspan x="4" dy="1.2em" class="st9">interface remains the same.</tspan></text>			</g>
+			<g id="shape85-324" v:mID="85" v:groupContext="shape" transform="translate(205.956,0)">
+				<title>Sheet.85</title>
+				<v:userDefs>
+					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
+					<v:ud v:nameU="ControlY" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(2.9105968017118):1"/>
+					<v:ud v:nameU="ControlY" v:prompt="" v:val="VT0(0.077466844445535):1"/>
+					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.092252160854085):1"/>
+					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.050205173354715):1"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#4672c4)"/>
+				</v:userDefs>
+				<path d="M0 748.35 L6.64 744.73 L3.61 742.77 L0 748.35 Z" class="st14"/>
+			</g>
+		</g>
+		<g id="shape86-327" v:mID="86" v:groupContext="shape" v:layerMember="0" transform="translate(1218.9,-140.315)">
+			<title>Dynamic connector.39</title>
+			<desc>I.e.</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="741.26" width="40" height="17.6036"/>
+			<path d="M0 741.26 L63.27 741.26" class="st10"/>
+			<rect v:rectContext="textBkgnd" x="30.4154" y="736.46" width="10.0352" height="9.59985" class="st15"/>
+			<text x="30.42" y="743.66" class="st16" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
+		<g id="shape88-334" v:mID="88" v:groupContext="shape" v:layerMember="0" transform="translate(1062.99,-260.787)">
+			<title>Dynamic connector.88</title>
+			<path d="M0 748.35 L12.67 748.35 L12.67 861.73 L42.01 861.73" class="st10"/>
+		</g>
+		<g id="shape90-339" v:mID="90" v:groupContext="shape" transform="translate(850.394,-204.398)">
+			<title>Rectangle.90</title>
+			<desc>Inheritance</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="726.378" width="113.39" height="43.937"/>
+			<rect x="0" y="704.409" width="113.386" height="43.937" class="st3"/>
+			<text x="33.5" y="729.38" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Inheritance</text>		</g>
+		<g id="shape91-342" v:mID="91" v:groupContext="shape" v:layerMember="0" transform="translate(765.354,-317.48)">
+			<title>Dynamic connector.91</title>
+			<path d="M0 748.35 L0 768.19 L141.73 768.19 L141.73 809.89" class="st35"/>
+		</g>
+		<g id="shape60-347" v:mID="60" v:groupContext="shape" v:layerMember="0" transform="translate(758.268,-317.48)">
+			<title>Dynamic connector.60</title>
+			<desc>How?</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08662" cy="757.611" width="45" height="18.8036"/>
+			<path d="M7.09 748.35 L7.09 767.6 L7.09 809.89" class="st35"/>
+			<rect v:rectContext="textBkgnd" x="-3.60967" y="752.211" width="21.3926" height="10.7998" class="st15"/>
+			<text x="-3.61" y="760.31" class="st27" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>How?</text>		</g>
+		<g id="shape96-354" v:mID="96" v:groupContext="shape" v:layerMember="0" transform="translate(907.087,-204.398)">
+			<title>Dynamic connector.96</title>
+			<path d="M0 748.35 L0 761.02 L-70.87 761.02 L-70.87 769.4" class="st35"/>
+		</g>
+		<g id="shape69-359" v:mID="69" v:groupContext="shape" v:layerMember="0" transform="translate(765.354,-204.398)">
+			<title>Dynamic connector.69</title>
+			<desc>I.e.</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="70.8661" cy="762.026" width="40" height="17.6036"/>
+			<path d="M0 748.35 L0 762.03 L70.87 762.03 L70.87 769.4" class="st35"/>
+			<rect v:rectContext="textBkgnd" x="65.8485" y="757.227" width="10.0352" height="9.59985" class="st15"/>
+			<text x="65.85" y="764.43" class="st37" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
 	</g>
 </svg>
