@@ -5,7 +5,7 @@ It is interesting to observe the relations between the SOLID principles, because
  - a SOLID principle arises from another principle 
  - a SOLID principle provides the application of another principle
 
-The coherence of the principles will create broader understanding that simplifies remembering and will result in better compliance of the SOLID principles.
+The coherence of the principles will create broader understanding that simplifies remembering and will result in better adherence to the SOLID principles.
 
 There are two types of SOLID principles:
 1. Theoretical principle: elaborates more on the 'why', but less on the 'how'.
