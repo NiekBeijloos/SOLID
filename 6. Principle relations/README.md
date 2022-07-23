@@ -4,6 +4,7 @@
 It is interesting to observe the relations between the SOLID principles, because it might help adhering to them. Instead of viewing each principle as a stand-alone principle we view them as a whole. Observing the coherence could mean that:
  - a SOLID principle arises from another principle 
  - a SOLID principle provides the application of another principle
+
 The coherence of the principles will create broader understanding that simplifies remembering and will result in better compliance of the SOLID principles.
 
 There are two types of SOLID principles:
